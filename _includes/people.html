@@ -1,0 +1,170 @@
+<div class="col-sm-12">
+  <div markdown="1">
+
+<h1>People</h1>
+
+Jump to <a href="/#faculty">Faculty</a>, <a href="#affiliated-faculty">Affiliated Faculty</a>, <a href="phd-students-and-postdoc-researchers">PhD Students and Postdocs</a>,
+    <a href="#sdsc-affiliated-members">SDSC Affiliated Members</a>, <a href="#alumni">Alumni</a>.
+
+<h3 id="faculty">Faculty</h3>
+{% assign number_printed = 0 %}
+{% for member in site.data.faculty %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/faculty/{{ member.photo }}" class="img-responsive" width="25%"
+   style="float: left; padding-right: 10px; margin-bottom:50px" />
+  <h5 style="margin-bottom:-1px"><a href="{{member.web}}">{{ member.name }}</a> (<a href="{{member.scholar}}">Google Scholar</a>)</h5>
+  <p align="justify">{{ member.info }}</p>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+
+<h3 id="affiliated-faculty">Affiliated Faculty</h3>
+{% assign number_printed = 0 %}
+{% for member in site.data.affiliated_faculty %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/affiliated_faculty/{{ member.photo }}" class="img-responsive" width="25%"
+   style="float: left; padding-right: 10px; margin-bottom:50px" />
+  <h5 style="margin-bottom:-1px"><a href="{{member.web}}">{{ member.name }}</a> (<a href="{{member.scholar}}">Google Scholar</a>)</h5>
+  <p align="justify">{{ member.info }}</p>
+</div>
+
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+
+
+
+<h3 id="phd-students-and-postdoc-researchers">Ph.D. Students and Postdoc Researchers</h3>
+{% assign number_printed = 0 %}
+{% for member in site.data.students %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/students/{{ member.photo }}" class="img-responsive" width="25%"
+   style="float: left; padding-right: 10px; margin-bottom:50px" />
+  <h5 style="margin-bottom:-1px"><a href="{{member.web}}">{{ member.name }}</a></h5>
+  <p align="justify">{{ member.info }}</p>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+
+<h3 id="sdsc-affiliated-members">SDSC Affiliated Members</h3>
+
+{% assign number_printed = 0 %}
+{% for member in site.data.sdsc %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/sdsc/{{ member.photo }}" class="img-responsive" width="25%"
+   style="float: left; padding-right: 10px; margin-bottom:50px" />
+  <h5 style="margin-bottom:-1px"><a href="{{member.web}}">{{ member.name }}</a></h5>
+  <p align="justify">{{ member.info }}</p>
+</div>
+
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+
+<h3 id="alumni">Alumni</h3>
+{% assign number_printed = 0 %}
+{% for member in site.data.alumni %}
+
+{% assign even_odd = number_printed | modulo: 2%}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  {% if member.web %}
+      <h5><a href="{{ member.web }}">{{ member.name }}</a></h5>
+  {% else %}
+      <h5>{{ member.name }}</h5>
+  {% endif %}
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+  </div>
+</div>

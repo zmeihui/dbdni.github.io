@@ -1,0 +1,6 @@
+- name: Delphi
+  web: http://delphi.ucsd.edu/
+  info: "DELPHI is a platform that enables integrated access and analysis of all data relevant to health. This platform promotes a more rapid development of empowering, data-driven health apps and tools by a broad community of health-related software developers."
+- name: SQL++ and Middleware
+  web: http://forward.ucsd.edu/sqlpp.html
+  info: "SQL++ is a highly expressive semi-structured query language that encompasses both the SQL and the JSON data model. SQL++ is SQL backwards-compatible. The Configurable version of SQL++ includes configuration options that formally itemize the semantics variations that language designers may choose from. We use SQL++ in FORWARD's middleware query processor."

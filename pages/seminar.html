@@ -1,0 +1,41 @@
+---
+layout: default
+sitemap: false
+permalink: /seminar.html
+---
+
+<div class="col-sm-12">
+  <div markdown="1">
+
+   <h1>Database Lab Research Seminar</h1>
+
+   <h3>Announcements</h3>
+   <p align="justify">If you are interested in database research, you are welcome to join us in our weekly database seminar. Every week a local or visiting researcher gives a talk on his/her research topic.</p>
+   <p>Location/Time: The seminar is held on Fridays 2:00-3:30pm in CSE 3217.</p>
+   <p>Course Number: If you are a student and plan to attend, please enroll in CSE 239A.</p>
+   <p>Mailing List: Announcements about the seminar are sent to the DBTalks mailing list. To (un)subscribe, please click <a href="https://groups.google.com/a/eng.ucsd.edu/forum/#!forum/cse-db-talks">here</a>.</p>
+
+   <br/>
+   <h3>DB Seminars</h3>
+    {%- if site.posts.size > 0 -%}
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <h4>{{post.title | escape }}</h4>
+        <h5>{{post.author}} • <span class="post-meta">{{ post.date | date: date_format }}</span></h5>
+
+        {{ post.excerpt | strip_html | truncatewords:25 }}
+        {% if post.excerpt != post.content %}
+            <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+        {% endif %}
+      </li>
+      {%- endfor -%}
+    </ul>
+
+    <br/>
+    <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+   {%- endif -%}
+
+  </div>
+</div>

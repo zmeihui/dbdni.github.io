@@ -1,0 +1,4 @@
+- name: Ainue Smagulova
+  photo: ainur.jpg
+  web: http://cseweb.ucsd.edu/~asmagulo/
+  info: "Ainur's research interests lie at the intersection of the theory and applications of databases and big data management systems. Currently, I'm focused on data processing for massively parallel systems, more specifically I'm working on parallel computation of queries over large graphs and their complexity."
