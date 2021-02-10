@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "The Socio-Technical Phenomena of Data Integration and Knowledge Graph"
+date:   2020-10-23
+author: Dr. Juan Sequeda (Data.World)
+---
+
+Data Integration has been an active area of computer science research for over two decades. A modern manifestation is as Knowledge Graphs which integrates not just data but also knowledge at scale. Tasks such as Domain modeling and Schema/Ontology Matching are fundamental in the data integration process. Research focus has been on studying the data integration phenomena from a technical point of view (algorithms and systems) with the ultimate goal of automating this task.
+
+In the process of applying scientific results to real world enterprise data integration scenarios to design and build Knowledge Graphs, we have experienced numerous obstacles. In this talk, I will share insights about these obstacles. I will argue that we need to think outside of a technical box and further study the phenomena of data integration with a human-centric lens: from a socio-technical point of view.
+
+Speaker bio:
+
+Juan F. Sequeda is the Principal Scientist at data.world. He joined through the acquisition of Capsenta, a company he founded as a spin-off from his research. He holds a PhD in Computer Science from The University of Texas at Austin.
+
+Juan is the recipient of the NSF Graduate Research Fellowship, received 2nd Place in the 2013 Semantic Web Challenge for his work on ConstituteProject.org, Best Student Research Paper at the 2014 International Semantic Web Conference, the 2015 Best Transfer and Innovation Project awarded by the Institute for Applied Informatics and nominated for best papers multiple times. Juan is on the Editorial Board of the Journal of Web Semantics, Advisory Board of Patterns Journal, member of multiple program committees (ISWC, ESWC, WWW, AAAI, IJCAI). He was the General Chair of 2018 Alberto Mendelzon Workshop, PC chair of ISWC 2017 In-Use track, co-creator of COLD workshop (7 years co-located at ISWC). He has served as a bridge between academia and industry as the current chair of the Property Graph Schema Working Group of the Linked Data Benchmark Council (LDBC), past member of the LDBC Graph Query Languages task force and past invited expert member and standards editor at the World Wide Web Consortium (W3C).
+
+Wearing his scientific hat, Juan's goal is to reliably create knowledge from inscrutable data. His research interests are at the intersection of Logic and Data for (ontology-based) data integration and semantic/graph data management, and what is now called Knowledge Graphs.
+
+Wearing his business hat, Juan does business strategy, technical sales and works with customers to understand their problems to translate back to R&D.
+
+Public video of talk:
+https://www.youtube.com/watch?v=0hL8vIaVe9U

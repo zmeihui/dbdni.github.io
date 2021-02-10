@@ -1,12 +1,93 @@
-- name: Costas (Konstantinos) Zarifis
-  web : http://zarifis.info/
-- name: Chunbin Lin
-  web : http://cseweb.ucsd.edu/~chunbinlin/
+- name: Nikos Koulouris
+  year: 2020
+  type: PhD
+  web : http://cseweb.ucsd.edu/~nkoulour/
+  advisor: Yannis Papakonstantinou
 - name: Vicky Papavasileiou
+  year: 2019
+  type: PhD
   web : http://cseweb.ucsd.edu/~vpapavas/
+  advisor: Alin Deutsch
+- name: Konstantinos (Costas) Zarifis
+  year: 2019
+  type: PhD
+  web : http://zarifis.info/
+  advisor: Yannis Papakonstantinou
 - name: Yuliang Li
+  year: 2018
+  type: PhD
   web : https://oi02lyl.github.io/
-- name: Jianguo WANG
+  advisor: Alin Deutsch and Victor Vianu
+- name: Chunbin Lin
+  year: 2018
+  type: PhD
+  web : http://cseweb.ucsd.edu/~chunbinlin/
+  advisor: Yannis Papakonstantinou
+- name: Jianguo Wang
+  year: 2018
+  type: PhD
   web : http://cseweb.ucsd.edu/~csjgwang/
+  advisor: Yannis Papakonstantinou and Steve Swanson
+- name: Yannis Katsis
+  year: 2017
+  type: PostDoc
+  web: http://cseweb.ucsd.edu/~ikatsis/
+  advisor: Yannis Papakonstantinou
+- name: Wojtek Kazana
+  year: 2014
+  type: PostDoc
+  advisor: Victor Vianu and Alin Deutsch
+- name: Elio Damaggio
+  year: 2012
+  type: PhD
+  advisor: Victor Vianu and Alin Deutsch
 - name: Alan Nash
-  web :
+  year: 2011
+  type: PhD
+  advisor: Alin Deutsch and Victor Vianu
+- name: Andrey Balmin
+  year: 2010
+  type: PhD
+  web: https://www.linkedin.com/pub/andrey-balmin/5/9a3/293
+  advisor: Alin Deutsch
+- name: Lying Sui
+  year: 2006
+  type: PhD
+  advisor: Victor Vianu
+- name: Frank Neven
+  year: 1999
+  type: PostDoc
+  advisor: Victor Vianu  
+- name: Karl Denninghoff
+  year: 1995
+  type: PhD
+  advisor: Victor Vianu
+- name: S&#357ephane Grumbach
+  year: 1990-91
+  type: PostDoc
+  advisor: Victor Vianu
+- name: Gottfried Vossen
+  year: 1987
+  type: PostDoc
+  advisor: Victor Vianu
+- name: Avinash Vyas
+- name: Bertram Ludascher
+- name: Dayou Zhou
+- name: Emiran Curtmola
+- name: Guilian Wang
+- name: Heasoo Hwang
+- name: Kevin Zhao
+- name: Kian Ong
+- name: Lian Chen
+- name: Liying Sui
+- name: Michalis Petropoulos
+- name: Min Qian
+- name: Nathan Bales
+- name: Nicola Onose
+- name: Nikolaos Trogkanis
+- name: Pavel Velikhov
+- name: Pratik Mukhopadhyay
+- name: Sergio Lifschitz
+- name: Vagelis Hristidis
+- name: Yu Xu
+- name: Yupeng Fu

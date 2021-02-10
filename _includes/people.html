@@ -3,7 +3,7 @@
 
 <h1>People</h1>
 
-Jump to <a href="/#faculty">Faculty</a>, <a href="#affiliated-faculty">Affiliated Faculty</a>, <a href="phd-students-and-postdoc-researchers">PhD Students and Postdocs</a>,
+Jump to <a href="/#faculty">Faculty</a>, <a href="#affiliated-faculty">Affiliated Faculty</a>, <a href="#students">PhD Students and Postdocs</a>,
     <a href="#sdsc-affiliated-members">SDSC Affiliated Members</a>, <a href="#alumni">Alumni</a>.
 
 <h3 id="faculty">Faculty</h3>
@@ -19,7 +19,15 @@ Jump to <a href="/#faculty">Faculty</a>, <a href="#affiliated-faculty">Affiliate
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/faculty/{{ member.photo }}" class="img-responsive" width="25%"
    style="float: left; padding-right: 10px; margin-bottom:50px" />
-  <h5 style="margin-bottom:-1px"><a href="{{member.web}}">{{ member.name }}</a> (<a href="{{member.scholar}}">Google Scholar</a>)</h5>
+  <h5 style="margin-bottom:-1px"><a href="{{member.web}}">{{ member.name }}</a> [
+    {% if member.scholar and member.dblp %}
+      <a href="{{member.dblp}}">DBLP</a>|<a href="{{member.scholar}}">Google Scholar</a>
+    {% elsif member.scholar %}
+      <a href="{{member.scholar}}">Google Scholar</a>
+    {% elsif member.dblp %}
+      <a href="{{member.dblp}}">DBLP</a>
+    {% endif %}
+    ]</h5>
   <p align="justify">{{ member.info }}</p>
 </div>
 
@@ -50,7 +58,7 @@ Jump to <a href="/#faculty">Faculty</a>, <a href="#affiliated-faculty">Affiliate
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/affiliated_faculty/{{ member.photo }}" class="img-responsive" width="25%"
    style="float: left; padding-right: 10px; margin-bottom:50px" />
-  <h5 style="margin-bottom:-1px"><a href="{{member.web}}">{{ member.name }}</a> (<a href="{{member.scholar}}">Google Scholar</a>)</h5>
+  <h5 style="margin-bottom:-1px"><a href="{{member.web}}">{{ member.name }}</a> [<a href="{{member.scholar}}">Google Scholar</a>]</h5>
   <p align="justify">{{ member.info }}</p>
 </div>
 
@@ -71,7 +79,7 @@ Jump to <a href="/#faculty">Faculty</a>, <a href="#affiliated-faculty">Affiliate
 
 
 
-<h3 id="phd-students-and-postdoc-researchers">Ph.D. Students and Postdoc Researchers</h3>
+<h3 id="students">PhD Students and Postdocs</h3>
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -150,6 +158,9 @@ Jump to <a href="/#faculty">Faculty</a>, <a href="#affiliated-faculty">Affiliate
       <h5><a href="{{ member.web }}">{{ member.name }}</a></h5>
   {% else %}
       <h5>{{ member.name }}</h5>
+  {% endif %}
+  {% if member.type %}
+      {{ member.type }}; {{ member.year }}; Advised by {{ member.advisor }}
   {% endif %}
 </div>
 

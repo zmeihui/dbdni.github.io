@@ -1,7 +1,3 @@
-- name: Forward
-  photo: forward.jpg
-  web: http://forward.ucsd.edu/visualizations.html
-  info: "A declarative, rapid development framework for data-driven Ajax reports and applications. Rich visualizations and collaborative workflows require only a few lines of SQL-based code and visualization/interaction markup."
 - name: Triptych
   photo: triptych.jpg
   web: https://adalabucsd.github.io/triptych.html
@@ -10,3 +6,7 @@
   photo: genisys.jpg
   web: https://adalabucsd.github.io/genisys.html
   info: "Deep learning-powered database perception to enable data systems to see and hear unstructured data for unified type-agnostic analytics."
+- name: Forward
+  photo: forward.jpg
+  web: http://forward.ucsd.edu/visualizations.html
+  info: "A declarative, rapid development framework for data-driven Ajax reports and applications. Rich visualizations and collaborative workflows require only a few lines of SQL-based code and visualization/interaction markup."

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Grouped Learning: Group-By Machine Learning Model Selection Workloads"
+date:   2020-10-09
+author: Side Li (UCSD CSE)
+---
+
+ML practitioners routinely build separate models for data subsets based on some specified attribute(s), e.g., one model per state. We call this practice "ML over groups" and see it as a form of multi-query execution. To optimize this workload, we are devising the first-known form of grouped execution for Machine Learning, akin to GROUP BY in SQL. Our initial results show there is an interesting tradeoff space between communication cost and space wastage. To bridge this gap, we devised a novel multi-query optimization technique that executes model selection workloads through gradients' accumulation. We call this approach grouped learning. Our approach is substantially more resource-efficient than the naive prior approach of materializing data subsets and training configs independently.
+
+Speaker bio:
+
+Side Li is a PhD student advised by Prof. Arun Kumar at UC San Diego. His research interests include machine learning systems, and data analytics systems. He is a recipient of Powell Fellowship and Halicioglu Data Science Institute Graduate Prize Fellowship Award.
+

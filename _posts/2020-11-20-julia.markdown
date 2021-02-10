@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Responsible Data Management"
+date:   2020-11-20
+author: Dr. Julia Stoyanovich (NYU)
+---
+
+The need for responsible data management intensifies with the growing impact of data on society. One central locus of the societal impact of data are Automated Decision Systems (ADS), socio-legal-technical systems that are used broadly in industry, non-profits, and government. ADS process data about people, help make decisions that are consequential to people’s lives, are designed with the stated goals of improving efficiency and promoting equitable access to opportunity, involve a combination of human and automated decision making, and are subject to auditing for legal compliance and to public disclosure. They may or may not use AI, and may or may not operate with a high degree of autonomy, but they rely heavily on data.
+
+In this talk I hope to convince you that the data management community should play a central role in the responsible design, development, use, and oversight of ADS. I outline a technical research agenda and also argue that, to make progress, we may need to step outside our engineering comfort zone and start reasoning in terms of values and beliefs, in addition to checking results against known ground truths and optimizing for efficiency objectives. This seems high-risk, but one of the upsides is being able to explain to our children what we do and why it matters.
+
+Speaker bio:
+
+Julia Stoyanovich is an Assistant Professor of Computer Science and Engineering and of Data Science at New York University.  Julia's research focuses on responsible data management and analysis: on operationalizing fairness, diversity, transparency, and data protection in all stages of the data science lifecycle. She is the founding director of the Center for Responsible AI at NYU, a comprehensive  laboratory that is building a future in which responsible AI will be the only kind accepted by society.  Julia is developing and  teaching courses on responsible data science at NYU, and is the co-creator of an award-winning comic on this topic (https://dataresponsibly.github.io/comics/). In addition to data ethics, she works on management and analysis of preference data, and on querying large evolving graphs.  Julia holds M.S. and Ph.D. degrees in Computer Science from Columbia University, and a B.S. in Computer Science and in Mathematics and Statistics from the University of Massachusetts at Amherst. Julia is a recipient of an NSF CAREER award and of an NSF/CRA CI Fellowship.
+
+Public video of talk: https://www.youtube.com/watch?v=57c025_xXdI

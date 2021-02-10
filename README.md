@@ -1,1 +1,2 @@
-# db.ucsd.edu
+Webpage of the UCSD Database Lab
+

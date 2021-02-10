@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Systems for Human Data Interaction"
+date:   2020-11-13
+author: Dr. Eugene Wu (Columbia University)
+---
+
+The rapid democratization of data has placed its access and analysis in the hands of the entire population. While the advances in rapid and large-scale data processing continue to reduce runtimes and costs, the interfaces and tools for end-users to interact with, and work with, data is still lacking. It is still too difficult to translate a user’s data needs into the appropriate interfaces, too difficult to develop data intensive interfaces that are responsive and scalable, and too difficult for users to understand and interpret the data they see. In this talk, I will provide an overview of our lab's recent work on systems for human data interaction that go towards addressing these challenges.
+
+Speaker bio:
+
+Eugene Wu is an Associate Professor of Computer Science at Columbia University. He received a Ph.D. in EECS from MIT in 2014, and B.S. from UC Berkeley. He is broadly interested in technologies for human data interaction. His goal is for users at all technical levels to effectively and quickly make sense of their information. Eugene is interested in solutions that ultimately improve the interface between users and data. He combines his background in database management systems with techniques from crowd-sourcing, visualization, and HCI. Eugene Wu has received the VLDB 2018 10-year test of time award, best-of-conference citations at ICDE and VLDB, the SIGMOD 2016 best demo award, the NSF CAREER, and the Google and Amazon faculty awards.

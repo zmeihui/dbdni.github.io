@@ -3,3 +3,9 @@
   web: http://cseweb.ucsd.edu/~kamalika/index.html
   info: "Kamalika's research interests lie in the area of machine learning. Specifically, much of her work is on privacy-preserving machine learning and unsupervised learning, but she's also broadly interested in a number of topics in learning theory, such as confidence-rated prediction, online learning, and active learning."
   scholar: https://scholar.google.com/citations?user=I-DJ7EsAAAAJ&hl=en&oi=ao
+- name: Babak Salimi
+  photo: babak.jpg
+  web: https://bsalimi.github.io/
+  info: "Babak's research interests are in data management, causal inference, responsible data science and data ethics. His research seeks to unify techniques from theoretical data management, causal inference and machine learning to develop the necessary conceptual foundations for decision-making and policy evaluation from complex relational data, algorithmic fairness, explainability and accountability."
+  scholar: https://scholar.google.com/citations?user=KC8hpXkAAAAJ&hl=en
+  dblp: https://dblp.uni-trier.de/pid/11/6446.html

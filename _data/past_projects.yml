@@ -4,3 +4,5 @@
 - name: SQL++ and Middleware
   web: http://forward.ucsd.edu/sqlpp.html
   info: "SQL++ is a highly expressive semi-structured query language that encompasses both the SQL and the JSON data model. SQL++ is SQL backwards-compatible. The Configurable version of SQL++ includes configuration options that formally itemize the semantics variations that language designers may choose from. We use SQL++ in FORWARD's middleware query processor."
+- name: Other projects
+  info: Links coming soon.

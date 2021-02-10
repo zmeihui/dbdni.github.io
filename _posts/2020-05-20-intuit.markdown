@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Knowledge Graph Use Cases at Intuit"
+date:   2020-05-20
+author: Jay Yu (Intuit)
+---
+
+Intuit, the leading financial software/service company behind TurboTax, Mint and Quickbooks, is embarking on a multi-year transformational journey into an AI-driven Expert Platform to help Small Business, Self-Employed and Consumers to prosper. The key pillars of the platform rely heavily on clean data and intelligent systems. In this talk I will share two specific knowledge graph use cases in data integration and tax logic programming that helped Intuit solve big business and customer problems at scale.

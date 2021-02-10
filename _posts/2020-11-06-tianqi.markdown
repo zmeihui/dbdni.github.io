@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Elements of Learning Systems"
+date:   2020-11-06
+author: Dr. Tianqi Chen (CMU and OctoML)
+---
+
+Data, models, and computing are the three pillars that enable machine learning to solve real-world problems at scale. Making progress on these three domains requires not only disruptive algorithmic advances but also systems innovations that can continue to squeeze more efficiency out of modern hardware. Learning systems are in the center of every intelligent application nowadays. However, the ever-growing demand for applications and hardware specialization creates a huge engineering burden for these systems, most of which rely on heuristics or manual optimization. In this talk, I will discuss approaches to reduce these manual efforts. I will cover several aspects of such learning systems, including scalability, ease of use and more automation.
+
+Speaker bio:
+
+Tianqi Chen is currently an Assistant Professor at the Machine Learning Department and Computer Science Department of Carnegie Mellon University. He received his PhD from the Paul G. Allen School of Computer Science & Engineering at the University of Washington, working with Carlos Guestrin on the intersection of machine learning and systems. He has created three major learning systems that are widely adopted: XGBoost, TVM, and MXNet(co-creator).
+
+Public video of talk: https://www.youtube.com/watch?v=HpOcREEQ-9Q

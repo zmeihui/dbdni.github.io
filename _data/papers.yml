@@ -1,0 +1,1825 @@
+- year: 2021
+  venue: CIDR
+  title: "Cerebro: A Layered Data Platform for Scalable Deep Learning"
+  author: Arun Kumar, Supun Nakandala, Yuhao Zhang, Side Li, Advitya Gemawat, and Kabir Nagrecha
+  link: https://adalabucsd.github.io/cerebro.html
+- year: 2020
+  venue: VLDB
+  title: "Cerebro: A Data System for Optimized Deep Learning Model Selection"
+  author: Supun Nakandala, Yuhao Zhang, and Arun Kumar
+  link: http://www.vldb.org/pvldb/vol13/p2159-nakandala.pdf
+- year: 2020
+  venue: VLDB
+  title: "Panorama: A Data System for Unbounded Vocabulary Querying over Video"
+  author: Yuhao Zhang and Arun Kumar
+  link: http://www.vldb.org/pvldb/vol13/p477-zhang.pdf
+- year: 2020
+  venue: VLDB
+  title: "Understanding and Benchmarking the Impact of GDPR on Database Systems"
+  author: Supreeth Shastri, Vinay Banakar, Melissa Wasserman, Arun Kumar, and Vijay Chidambaram
+  link: http://www.vldb.org/pvldb/vol13/p1064-shastri.pdf 
+- year: 2020
+  venue: ACM SIGMOD Record
+  title: "Query Optimization for Faster Deep CNN Explanations"
+  author: Supun Nakandala, Arun Kumar, and Yannis Papakonstantinou
+  link: https://adalabucsd.github.io/papers/2020_Krypton_SIGMODRecord.pdf
+- year: 2020
+  venue: ACM TODS
+  title: "Incremental and Approximate Computations for Accelerating Deep CNN Inference"
+  author: Supun Nakandala, Kabir Nagrecha, Arun Kumar, and Yannis Papakonstantinou
+  link: https://adalabucsd.github.io/2020_Krypton_TODS.pdf
+- year: 2020
+  venue: ACM SIGMOD
+  title: "Vista: Optimized System for Declarative Feature Transfer from Deep CNNs at Scale"
+  author: Supun Nakandala and Arun Kumar
+  link: https://adalabucsd.github.io/2020_Vista_SIGMOD.pdf
+- year: 2020
+  venue: ACM SIGMOD
+  title: "SpeakQL: Towards Speech-driven Multimodal Querying of Structured Data"
+  author: Vraj Shah, Side Li, Arun Kumar, and Lawrence Saul
+  link: https://adalabucsd.github.io/2020_SpeakQL_SIGMOD.pdf
+- year: 2020
+  venue: ACM SIGMOD
+  title: "Aggregation Support for Modern Graph Analytics in TigerGraph"
+  author: Alin Deutsch, Yu Xu, Mingxi Wu, and Victor E. Lee
+  link: https://dl.acm.org/doi/pdf/10.1145/3318464.3386144
+- year: 2019
+  venue: ACM SIGMOD
+  title: "Towards Scalable Hybrid Stores: Constraint-Based Rewriting to the Rescue"
+  author: Rana Alotaibi, Damian Bursztyn, Alin Deutsch, Ioana Manolescu, and Stamatis Zampetakis
+  link: https://dl.acm.org/citation.cfm?doid=3299869.3319895
+- year: 2019
+  venue: ACM SIGMOD
+  title: "Model-based Pricing for Machine Learning in a Data Marketplace"
+  author: Lingjiao Chen, Paraschos Koutris, and Arun Kumar
+  link: https://adalabucsd.github.io/papers/2019_Nimbus_SIGMOD.pdf
+- year: 2019
+  venue: ACM SIGMOD
+  title: "Tuple-oriented Compression for Large-scale Mini-batch Stochastic Gradient Descent"
+  author: Fengan Li, Lingjiao Chen, Yijing Zeng, Arun Kumar, Jeffrey Naughton, Jignesh Patel, and Xi Wu
+  link: https://adalabucsd.github.io/papers/2019_TOC_SIGMOD.pdf
+- year: 2019
+  venue: ACM SIGMOD
+  title: "Enabling and Optimizing Non-linear Feature Interactions in Factorized Linear Algebra"
+  author: Side Li, Lingjiao Chen, and Arun Kumar
+  link: https://adalabucsd.github.io/papers/2019_MorpheusFI_SIGMOD.pdf
+- year: 2019
+  venue: ACM SIGMOD
+  title: "Incremental and Approximate Inference for Faster Occlusion-based Deep CNN Explanations"
+  author: Supun Nakandala, Arun Kumar, and Yannis Papakonstantinou
+  link: https://adalabucsd.github.io/papers/2019_Krypton_SIGMOD.pdf
+- year: 2019
+  venue: ACM SIGMOD
+  title: "Ariadne: Online Provenance for Big Graph Analytics"
+  author: Vicky Papavasileiou, Ken Yocum, and Alin Deutsch
+  link: https://dl.acm.org/citation.cfm?doid=3299869.3300091
+- year: 2019
+  venue: ACM SIGMOD Workshop on Data Management for End-to-End Machine Learning (DEEM)
+  title: "Cerebro: Efficient and Reproducible Model Selection on Deep Learning Systems"
+  author: Supun Nakandala, Yuhao Zhang, and Arun Kumar
+  link: https://adalabucsd.github.io/papers/2019_Cerebro_DEEM.pdf
+- year: 2019
+  venue: ACM SIGMOD Workshop on Data Management for End-to-End Machine Learning (DEEM)
+  title: "The ML Data Prep Zoo: Towards Semi-Automatic Data Preparation for ML"
+  author: Vraj Shah and Arun Kumar
+  link: https://adalabucsd.github.io/papers/2019_DataPrepZoo_DEEM.pdf
+- year: 2019
+  venue: ACM SIGMOD Demonstration
+  title: "Demonstration of Nimbus: Model-based Pricing for Machine Learning in a Data Marketplace"
+  author: Lingjiao Chen, Hongyi Wang, Leshang Chen, Paraschos Koutris, and Arun Kumar
+  link: https://adalabucsd.github.io/papers/2019_NimbusDemo_SIGMOD.pdf
+- year: 2019
+  venue: ACM SIGMOD Demonstration
+  title: "Demonstration of SpeakQL: Speech-driven Multimodal Querying of Structured Data"
+  author: Vraj Shah, Side Li, Kevin Yang, Arun Kumar, and Lawrence Saul
+  link: https://adalabucsd.github.io/papers/2019_SpeakQL_SIGMOD.pdf
+- year: 2019
+  venue: VLDB
+  title: "A Comparative Evaluation of Systems for Scalable Linear Algebra-based Analytics"
+  author: Anthony Thomas and Arun Kumar
+  link: https://adalabucsd.github.io/papers/2019_SLAB_VLDB.pdf
+- year: 2019
+  venue: VLDB Demonstration
+  title: "Demonstration of Krypton: Optimized CNN Inference for Occlusion-based Deep CNN Explanations"
+  author: Allen Ordookhanians, Xin Li, Supun Nakandala, and Arun Kumar
+  link: http://www.vldb.org/pvldb/vol12/p1894-ordookhanians.pdf
+- year: 2019
+  venue: ICDT
+  title: "Index-based, High-dimensional, Cosine Threshold Querying with Optimality Guarantees"
+  author: Yuliang Li and Jianguo Wang and Benjamin Pullman and Nuno Bandeira and Yannis Papakonstantinou
+  link: paperpdfs/2019_1.pdf
+- year: 2019
+  venue: ACM TODS
+  title: "Verification of Hierarchical Artifact Systems"
+  author: Alin Deutsch, Yuliang Li, and Victor Vianu
+  link: https://dl.acm.org/citation.cfm?doid=3339885.3321487
+- year: 2019
+  venue: SysML Demonstration
+  title: "Demonstration of Krypton: Incremental and Approximate Inference for Faster Occlusion-based Deep CNN Explanations"
+  author: Supun Nakandala, Arun Kumar, and Yannis Papakonstantinou
+  link: https://adalabucsd.github.io/papers/2019_Krypton_SysML.pdf
+- year: 2019
+  venue: "Synthesis Lectures on Data Management, Morgan & Claypool Publishers (Book)"
+  title: "Data Management in Machine Learning Systems"
+  author: Matthias Boehm, Arun Kumar, and Jun Yang
+  link: https://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1366
+- year: 2019
+  venue: IEEE ICNSC
+  title: "Hierarchical and Distributed Machine Learning Inference Beyond the Edge"
+  author: Anthony Thomas, Yunhui Guo, Yeseong Kim, Baris Aksanli, Arun Kumar and Tajana Rosing
+  link: https://adalabucsd.github.io/papers/2019_ICNSC.pdf
+- year: 2019
+  venue: eScience Conference
+  title: "Predicting Eating Events in Free Living Individuals"
+  author: Jiayi Wang, Jiue-An Yang, Supun Nakandala, Arun Kumar and Marta M. Jankowska
+- year: 2018
+  venue: VLDB
+  title: "In-RDBMS Hardware Acceleration of Advanced Analytics"
+  author: Divya Mahajan, Joon Kyung Kim, Jacob Sacks, Adel Ardalan, Arun Kumar, and Hadi Esmaeilzadeh
+  link: https://adalabucsd.github.io/papers/2018_DANA_VLDB.pdf
+- year: 2018
+  venue: VLDB
+  title: "Are Key-Foreign Key Joins Safe to Avoid when Learning High-Capacity Classifiers?"
+  author: Vraj Shah, Arun Kumar, and Xiaojin Zhu
+  link: https://adalabucsd.github.io/papers/2018_Hamlet_VLDB.pdf
+- year: 2018
+  venue: SysML (Short paper)
+  title: "Materialization Trade-offs for Feature Transfer from Deep CNNs for Multimodal Data Analytics"
+  author: Supun Nakandala and Arun Kumar
+  link: https://adalabucsd.github.io/papers/2018_Vista_SysML.pdf
+- year: 2018
+  venue: N/A (Manuscript)
+  title: "Plato: Approximate Analytics over Compressed Time Series with Tight Deterministic Error Guarantees"
+  author: Etienne Boursier and Jaqueline J. Brito and Chunbin Lin and Yannis Papakonstantinou
+  link: paperpdfs/2018_1.pdf
+- year: 2017
+  venue: N/A (Manuscript)
+  title: "MILC: Inverted List Compression in Memory"
+  author: Jianguo Wang and Chunbin Lin and Ruining He and Moojin Chae and Yannis Papakonstantinou and Steven Swanson
+  link: paperpdfs/2017_1.pdf
+- year: 2017
+  venue: "2017 IEEE 33rd International Conference on Data Engineering (ICDE)"
+  title: "GQFast: Fast Graph Exploration with Context-Aware Autocompletion"
+  author: Chunbin Lin and Jianguo Wang and Yiannis Papakonstantinou
+- year: 2017
+  venue: "Proceedings of ACM Conference on Management of Data (SIGMOD)"
+  title: "An Experimental Study of Bitmap Compression vs. Inverted List Compression"
+  author: Jianguo Wang and Chunbin Lin and Yannis Papakonstantinou and Steven Swanson
+  link: paperpdfs/2017_2.pdf
+- year: 2017
+  venue: "2017 IEEE 23rd International Symposium on High Performance Computer Architecture (HPCA 2017)"
+  title: "KAML: A Flexible, High-Performance Key-Value SSD "
+  author: Yanqin Jin and Hung-Wei Tseng and Yannis Papakonstantinou and Steven Swanson
+- year: 2017
+  venue: " IEEE Transactions on Computers (TC)"
+  title: "SSD In-Storage Computing for Search Engines"
+  author: Jianguo Wang and Dongchul Park and Yannis Papakonstantinou and Steven Swanson
+- year: 2017
+  venue: N/A (Manuscript)
+  title: "Application View Maintenance: Optimizing Change Propagation in Mobile Applications"
+  author: Konstantinos Zarifis and Yannis Katsis and Yannis Papakonstantinou 
+  link: paperpdfs/2017_3.pdf
+- year: 2017
+  venue: "Proceedings of the 2017 ACM SIGMOD International Conference on Management of Data"
+  title: "Data Management in Machine Learning: Challenges, Techniques, and Systems"
+  author: Arun Kumar and Matthias Boehm and Jun Yang
+- year: 2017
+  venue: "Proceedings of the 2017 ACM SIGMOD International Conference on Management of Data"
+  title: "Differentially Private Stochastic Gradient Descent for in-RDBMS Analytics"
+  author: Xi Wu and Fengan Li and Arun Kumar and Kamalika Chaudhuri and Somesh Jha and Jeffrey Naughton
+- year: 2017
+  venue: "MEMSYS"
+  title: "Improving SSD Lifetime with Byte-Addressable Metadata"
+  author:  Yanqin Jin and Hung-Wei Tseng and Yannis Papakonstantinou and Steven Swanson
+  link: paperpdfs/2017_4.pdf
+- year: 2017
+  venue: "Proceedings of the 2017 ACM International Conference on Management of Data"
+  title: "Waldo: An Adaptive Human Interface for Crowd Entity Resolution"
+  author:  Vasilis Verroios and Hector Garcia-Molina and Yannis Papakonstantinou
+- year: 2017
+  venue: "Proceedings of the 2Nd Workshop on Human-In-the-Loop Data Analytics"
+  title: "Assisting Discovery in Public Health"
+  author:  Yannis Katsis and Nikos Koulouris and Yannis Papakonstantinou and Kevin Patrick
+- year: 2017
+  venue: "CoRR"
+  title: "Efficient Approximate Query Answering over Sensor Data with Deterministic Error Guarantees"
+  author: Jaqueline Brito and Korhan Demirkaya and Boursier Etienne and Yannis Katsis and Chunbin Lin and Yannis Papakonstantinou
+- year: 2016
+  venue: "PVLDB"
+  title: " Fast In-Memory SQL Analytics on Typed Graphs"
+  author: Chunbin Lin and Benjamin Mandel and Yannis Papakonstantinou and Matthias Springer
+  link: paperpdfs/2016_1.pdf
+- year: 2016
+  venue: N/A (Manuscript)
+  title: "Learning Over Joins"
+  author: Arun Kumar
+- year: 2016
+  venue: "PVLDB"
+  title: "HippogriffDB: Balancing I/O and GPU Bandwidth in Big Data Analytics"
+  author: Jing Li and Hung-Wei Tseng and Chunbin Lin and Yannis Papakonstantinou and Steven Swanson
+  link: paperpdfs/2016_2.pdf
+- year: 2016
+  venue: "Proceedings of the 12th International Workshop on Data Management on New Hardware, DaMoN 2016, San Francisco, CA, USA, June 27, 2016"
+  title: "SSD in-storage computing for list intersection"
+  author: Jianguo Wang and Dongchul Park and Yang-Suk Kee and Yannis Papakonstantinou and Steven Swanson 
+  link: paperpdfs/2016_3.pdf
+- year: 2016
+  venue: N/A (Manuscript)
+  title: "In-depth Survey of MVVM Web Application Frameworks"
+  author: Konstantinos Zarifis 
+  link: paperpdfs/2016_4.pdf
+- year: 2016
+  venue: "Proceedings of the 2016 International Conference on Management of Data"
+  title: "To Join or Not to Join?: Thinking Twice About Joins Before Feature Selection"
+  author:  Arun Kumar and Jeffrey Naughton and Jignesh M. Patel and Xiaojin Zhu
+- year: 2016
+  venue: "SIGMOD Rec."
+  title: "Model Selection Management Systems: The Next Frontier of Advanced Analytics"
+  author:  Arun Kumar and Robert McCann and Jeffrey Naughton and Jignesh M. Patel
+- year: 2016
+  venue: "PODS 2016, San Francisco, CA, USA, June 26 - July 01"
+  title: "Verification of Hierarchical Artifact Systems"
+  author: Alin Deutsch and Yuliang Li and Victor Vianu
+  link: paperpdfs/2016_5.pdf
+- year: 2016
+  venue: "Service-Oriented Computing - 14th International Conference, ICSOC 2016, Banff, AB, Canada, October 10-13"
+  title: "Towards a Shared Ledger Business Collaboration Language Based on Data-Aware Processes"
+  author: Richard Hull and Vishal S. Batra and Yi-Min Chen and Alin Deutsch and Fenno F. Terry Heath III and Victor Vianu
+  link: paperpdfs/2016_6.pdf
+- year: 2016
+  venue: "19th International Conference on Database Theory, ICDT 2016, Bordeaux, France, March 15-18"
+  title: "A Formal Study of Collaborative Access Control in Distributed Datalog"
+  author: Serge Abiteboul and Pierre Bourhis and Victor Vianu
+  link: paperpdfs/2016_7.pdf
+- year: 2016
+  venue: "EDBT/ICDT Workshops"
+  title: "Polystore Query Rewriting: The Challenges of Variety."
+  author: Yannis Papakonstantinou 
+  link: paperpdfs/2016_8.pdf
+- year: 2015
+  venue: "CIDR"
+  title: "Combining Databases and Signal Processing in Plato"
+  author: Yannis Katsis and Yoav Freund and Yannis Papakonstantinou 
+  link: paperpdfs/2015_1.pdf
+- year: 2015
+  venue: "Communications of the ACM 58 (6): 36-38"
+  title: "Created Computed Universe"
+  author: Yannis Papakonstantinou 
+  link: paperpdfs/2015_2.pdf
+- year: 2015
+  venue: "SIGMOD"
+  title: "Utilizing IDs to Accelerate Incremental View Maintenance"
+  author: Yannis Katsis and Kian Win Ong and Yannis Papakonstantinou and Kevin Keliang Zhao
+  link: paperpdfs/2015_3.pdf
+- year: 2015
+  venue: "ICDT"
+  title: "Process-Centric Views of Data-Driven Business Artifacts"
+  author: Adrien Koutsos and Victor Vianu
+  link: paperpdfs/2015_4.pdf
+- year: 2015
+  venue: N/A (Manuscript)
+  title: "A Reduction of N1QL into SQL++ Core"
+  author: Kian Win Ong and Yannis Papakonstantinou and Gerald Sangudi
+  link: paperpdfs/2015_5.pdf
+- year: 2015
+  venue: "Proc. VLDB Endow."
+  title: "Demonstration of Santoku: Optimizing Machine Learning over Normalized Data"
+  author:  Arun Kumar and Mona Jalal and Boqun Yan and Jeffrey Naughton and Jignesh M. Patel
+- year: 2015
+  venue: "Proceedings of the 2015 ACM SIGMOD International Conference on Management of Data"
+  title: "Learning Generalized Linear Models Over Normalized Data"
+  author:  Arun Kumar and Jeffrey Naughton and Jignesh M. Patel
+- year: 2015
+  venue: "Theory Comput. Syst."
+  title: "Highly Expressive Query Languages for Unordered Data Trees"
+  author: Serge Abiteboul and Pierre Bourhis and Victor Vianu
+- year: 2014
+  venue: N/A (Manuscript)
+  title: "The SQL++ Unifying Semi-structured Query Language, and an Expressiveness Benchmark of SQL-on-Hadoop, NoSQL and NewSQL Databases"
+  author: Kian Win Ong and Yannis Papakonstantinou and Romain Vernoux
+  link: paperpdfs/2014_1.pdf
+- year: 2014
+  venue: N/A (Manuscript)
+  title: "Automatic Verification of Database-Centric Systems"
+  author: Alin Deutsch and Richard Hull and Victor Vianu
+  link: paperpdfs/2014_2.pdf
+- year: 2014
+  venue: "VLDB Demo"
+  title: "FORWARD: Data-Centric UIs using Declarative Templates that Efficiently Wrap Third-Party JavaScript Components"
+  author: Yupeng Fu and Kian Win Ong and Yannis Papakonstantinou and Erick Zamora
+  link: paperpdfs/2014_3.pdf
+- year: 2014
+  venue: "Communications of the ACM 57(7): 86-94"
+  title: "Big Data and Its Technical Challenges"
+  author: HV. Jagadish and Johannes Gehrke and Alexandros Labrinidis and Yannis Papakonstantinou and Jignesh M. Patel and Raghu Ramakrishnan and Cyrus Shahabi
+  link: paperpdfs/2014_4.pdf
+- year: 2014
+  venue: N/A (Manuscript)
+  title: "Deduction with Contradictions in Datalog"
+  author: Serge Abiteboul and Daniel Deutch and Victor Vianu
+  link: paperpdfs/2014_5.pdf
+- year: 2014
+  venue: "Proceedings of the 2014 ACM SIGMOD International Conference on Management of Data"
+  title: "Materialization Optimizations for Feature Selection Workloads"
+  author:  Ce Zhang and Arun Kumar and Christopher Re
+- year: 2013
+  venue: N/A (Manuscript)
+  title: "Holistic Data Access Optimization for Analytics Reports"
+  author: Yupeng Fu and Kian Win Ong and Yannis Papakonstantinou and Romain Vernoux
+  link: paperpdfs/2013_1.pdf
+- year: 2013
+  venue: "DBPL"
+  title: "Declarative Ajax Web Applications through SQL++ on a Unified Application State"
+  author: Yupeng Fu and Kian Win Ong and Yannis Papakonstantinou
+  link: paperpdfs/2013_2.pdf
+- year: 2013
+  venue: "Proc. VLDB Endow."
+  title: "Feature Selection in Enterprise Analytics: A Demonstration Using an R-based Data Analytics System"
+  author:  Pradap Konda and Arun Kumar and Christopher Re and Vaishnavi Sashikanth
+- year: 2013
+  venue: "Healthcom"
+  title: "DELPHI: Data E-platform for personalized population health"
+  author: Yannis Katsis and Chaitanya Baru and Ted Chan and Sanjoy Dasgupta and Claudiu Farcas and William G. Griswold and Jeannie Huang and Lucila Ohno-Machado and Yannis Papakonstantinou and Fredric Raab and Kevin Patrick
+- year: 2013
+  venue: N/A (Manuscript)
+  title: "Collaborative Data-Driven Workflows: Think Global, Act Local"
+  author: Serge Abiteboul and Victor Vianu
+  link: paperpdfs/2013_3.pdf
+- year: 2013
+  venue: N/A (Manuscript)
+  title: "Distributed and Scalable PCA in the Cloud"
+  author:  Arun Kumar and Nikos Karampatziakis and Paul Mineiro and Markus Weimer and Vijay Narayanan
+- year: 2013
+  venue: "Queue"
+  title: "Hazy: Making It Easier to Build and Maintain Big-data Analytics"
+  author:  Arun Kumar and Feng Niu and Christopher Re
+- year: 2013
+  venue: "Proceedings of the 2013 Conference on Innovative Data Systems Research"
+  title: "Brainwash: A Data System for Feature Engineering"
+  author:  Michael Anderson and Dolan Antenucci and Victor Bittorf and Matthew Burgess and Michael Cafarella and Arun Kumar and Feng Niu and Yongjoo Park and Christopher Ré and Ce Zhang
+- year: 2013
+  venue: "Wirel. Netw."
+  title: "On Reducing Delay in Mobile Data Collection Based Wireless Sensor Networks"
+  author:  Arun Kumar and Krishna M. Sivalingam and Adithya Kumar
+- year: 2012
+  venue: "Proc. VLDB Endow."
+  title: "The MADlib Analytics Library: Or MAD Skills, the SQL"
+  author:  Joseph M. Hellerstein and Christopher Re and Florian Schoppmann and Daisy Zhe Wang and Eugene Fratkin and Aleksander Gorajek and Kee Siong Ng and Caleb Welton and Xixuan Feng and Kun Li and Arun Kumar
+- year: 2012
+  venue: "TODS"
+  title: "Artifact Systems with Data Dependencies and Arithmetic"
+  author: Elio Damaggio and Alin Deutsch and Victor Vianu
+  link: paperpdfs/2012_1.pdf
+- year: 2012
+  venue: "TODS"
+  title: "Comparing Workflow Specification Languages: A Matter of Views"
+  author: Serge Abiteboul and Pierre Bourhis and Victor Vianu
+  link: paperpdfs/2012_2.pdf
+- year: 2012
+  venue: "ICDE"
+  title: "Mapping XML to a Wide Sparse Table"
+  author: Liang Jeff Chen and Philip Bernstein
+  link: paperpdfs/2012_3.pdf
+- year: 2012
+  venue: N/A (Manuscript)
+  title: "Highly Expressive Query Languages for Unordered Data Trees"
+  author: Serge Abiteboul and Pierre Bourhis and Victor Vianu
+  link: paperpdfs/2012_4.pdf
+- year: 2012
+  venue: N/A (Manuscript)
+  title: "Trajectory and Policy Aware Sender Anonymity in Location Based Services"
+  author: Alin Deutsch and Richard Hull and Avinash Vyas and Kevin Keliang Zhao
+  link: paperpdfs/2012_5.pdf
+- year: 2012
+  venue: "Proceedings of the 2012 ACM SIGMOD International Conference on Management of Data"
+  title: "Towards a Unified Architecture for in-RDBMS Analytics"
+  author:  Xixuan Feng and Arun Kumar and Benjamin Recht and Christopher Re
+- year: 2011
+  venue: "VLDB"
+  title: "Update Rewriting and Integrity Constraint Maintenance in a Schema Evolution Support System"
+  author: Carlo Curino and Hyun Moon and Alin Deutsch and Carlo Zaniolo
+  link: paperpdfs/2011_1.pdf
+- year: 2011
+  venue: "BPM"
+  title: "Automatic Verification of Data-Centric Business Processes"
+  author: Elio Damaggio and Alin Deutsch and Richard Hull and Victor Vianu
+  link: paperpdfs/2011_2.pdf
+- year: 2011
+  venue: "SIGMOD"
+  title: "Querying contract databases based on temporal behavior"
+  author: Elio Damaggio and Alin Deutsch and Dayou Zhou
+  link: paperpdfs/2011_3.pdf
+- year: 2011
+  venue: "SIGMOD"
+  title: "Context-sensitive Ranking for Document Retrieval"
+  author: Liang Jeff Chen and Yannis Papakonstantinou
+  link: paperpdfs/2011_4.pdf
+- year: 2011
+  venue: "SIGMOD"
+  title: "Score-consistent algebraic optimization of full-text search queries with GRAFT"
+  author: Nathan Bales and Alin Deutsch and Vasilis Vassalos
+  link: paperpdfs/2011_5.pdf
+- year: 2011
+  venue: "ICDT"
+  title: "Artifact systems with data dependencies and arithmetic"
+  author: Elio Damaggio and Alin Deutsch and Victor Vianu
+  link: paperpdfs/2011_6.pdf
+- year: 2011
+  venue: "Distributed and Parallel Databases"
+  title: "ASTERIX: towards a scalable, semistructured data platform for evolving-world models"
+  author: Alexander Behm and Vinayak Borkar and Michael Carey and Raman Grover and Chen Li and Nicola Onose and Rares Vernica and Alin Deutsch and Yannis Papakonstantinou and Vassilis Tsotras
+  link: paperpdfs/2011_7.pdf
+- year: 2011
+  venue: "TODS"
+  title: "Querying XML data sources that export very large sets of views"
+  author: Bogdan Cautis and Alin Deutsch and Nicola Onose and Vasilis Vassalos
+  link: paperpdfs/2011_8.pdf
+- year: 2011
+  venue: "CIDR"
+  title: "Deuteronomy: Transaction Support for Cloud Data"
+  author: Justin Levandoski and David Lomet and Mohamed Mokbel and Kevin Keliang Zhao
+  link: paperpdfs/2011_9.pdf
+- year: 2011
+  venue: "ICDT 2011"
+  title: "Comparing workflow specification languages: a matter of views"
+  author: Serge Abiteboul and Pierre Bourhis and Victor Vianu
+  link: paperpdfs/2011_10.pdf
+- year: 2011
+  venue: "CIDR"
+  title: "The SQL-based All-Declarative FORWARD Web Application Development Framework"
+  author: Yupeng Fu and Kian Win Ong and Yannis Papakonstantinou and Michalis Petropoulos
+  link: paperpdfs/2011_11.pdf
+- year: 2011
+  venue: "TOCS"
+  title: "Querying Data Sources Exporting Infinite Sets of Views"
+  author: Bogdan Cautis and Alin Deutsch and Nicola Onose
+  link: paperpdfs/2011_12.pdf
+- year: 2011
+  venue: "Proc. VLDB Endow."
+  title: "Probabilistic Management of OCR Data Using an RDBMS"
+  author:  Arun Kumar and Christopher Re
+- year: 2010
+  venue: "IEEE Transactions on Knowledge and Data Engineering"
+  title: "Using Proximity Search to Estimate Authority Flow"
+  author: Vagelis Hristidis and Yannis Papakonstantinou and Ramakrishna Vandarajan
+  link: paperpdfs/2010_1.pdf
+- year: 2010
+  venue: N/A (Manuscript)
+  title: "Querying contract databases based on temporal behavior - UCSD Technical Report"
+  author: Elio Damaggio and Alin Deutsch and Dayou Zhou
+  link: paperpdfs/2010_2.pdf
+- year: 2010
+  venue: "TODS"
+  title: "Views and Queries: Determinacy and Rewriting"
+  author: Alan Nash and Luc Segoufin and Victor Vianu
+  link: paperpdfs/2010_3.pdf
+- year: 2010
+  venue: "SIGMOD"
+  title: "Load-Balanced Query Dissemination in Privacy-Aware Online Communities"
+  author: Emiran Curtmola and Alin Deutsch and K.K. Ramakrishnan and Divesh Srivastava
+  link: paperpdfs/2010_4.pdf
+- year: 2010
+  venue: "SIGMOD"
+  title: "Ajax-based Report Pages as Incrementally Rendered Views"
+  author: Yupeng Fu and Keith Kowalczykowski and Kian Win Ong and Yannis Papakonstantinou and Kevin Keliang Zhao
+  link: paperpdfs/2010_5.pdf
+- year: 2010
+  venue: "WebDB"
+  title: "WikiAnalytics: Disambiguation of Keyword Search Results on Highly Heterogeneous Structured Data"
+  author: Andrey Balmin and Emiran Curtmola
+  link: paperpdfs/2010_6.pdf
+- year: 2010
+  venue: "IBM Research Report RJ10466, May 2010"
+  title: "WikiAnalytics: Disambiguation of Keyword Search Results on Highly Heterogeneous Structured Data -- IBM Research Report RJ10466, May 2010"
+  author: Andrey Balmin and Emiran Curtmola
+  link: paperpdfs/2010_7.pdf
+- year: 2010
+  venue: N/A (Manuscript)
+  title: "Censorship-resistant Publishing -- UCSD Technical Report CS2010-0956"
+  author: Emiran Curtmola and Alin Deutsch and K.K. Ramakrishnan and Divesh Srivastava
+  link: paperpdfs/2010_8.pdf
+- year: 2010
+  venue: "ICDE"
+  title: "Policy-Aware Sender Anonymity in Location Based Services"
+  author: Alin Deutsch and Richard Hull and Avinash Vyas and Kevin Keliang Zhao
+  link: paperpdfs/2010_9.pdf
+- year: 2010
+  venue: "ICDE"
+  title: "Supporting Top-K Keyword Search in XML Databases"
+  author: Liang Jeff Chen and Yannis Papakonstantinou
+  link: paperpdfs/2010_10.pdf
+- year: 2010
+  venue: "ICDE"
+  title: "Inconsistency resolution in online databases"
+  author: Yannis Katsis and Alin Deutsch and Vasilis Vassalos and Yannis Papakonstantinou
+  link: paperpdfs/2010_11.pdf
+- year: 2010
+  venue: "ICDE Demo"
+  title: "WikiAnalytics: Ad-hoc Querying of Highly Heterogeneous Structured Data"
+  author: Andrey Balmin and Emiran Curtmola
+  link: paperpdfs/2010_12.pdf
+- year: 2010
+  venue: N/A (Manuscript)
+  title: "Flexible Multimedia Content Retrieval Using InfoNames"
+  author:  Arun Kumar and Ashok Anand and Athula Balachandran and Vyas Sekar and Aditya Akella and Srinivasan Seshan
+- year: 2010
+  venue: "Proceedings of the 2Nd International Conference on COMmunication Systems and NETworks"
+  title: "Energy-efficient Mobile Data Collection in Wireless Sensor Networks with Delay Reduction Using Wireless Communication"
+  author:  Arun Kumar and Krishna M. Sivalingam
+- year: 2009
+  venue: "WebDB"
+  title: "FORWARD: Design Specification Techniques for Do-It-Yourself Application Platforms"
+  author: Gaurav Bhatia and Yupeng Fu and Keith Kowalczykowski and Kian Win Ong and Kevin Keliang Zhao and Alin Deutsch and Yannis Papakonstantinou
+  link: paperpdfs/2009_1.pdf
+- year: 2009
+  venue: N/A (Manuscript)
+  title: "Policy-Aware Sender Anonymity in Location Based Services"
+  author: Alin Deutsch and Richard Hull and Kevin Keliang Zhao and Avinash Vyas
+  link: paperpdfs/2009_2.pdf
+- year: 2009
+  venue: N/A (Manuscript)
+  title: "Efficient Rewriting of XPath Queries Using Query Set Specifications"
+  author: Bogdan Cautis and Alin Deutsch and Nicola Onose and Vasilis Vassalos
+  link: paperpdfs/2009_3.pdf
+- year: 2009
+  venue: N/A (Manuscript)
+  title: "Join-Based Algorithms for Keyword Search in XML Databases"
+  author: Liang Jeff Chen and Yannis Papakonstantinou
+  link: paperpdfs/2009_4.pdf
+- year: 2009
+  venue: "ICDT"
+  title: "Automatic Verification of Data-centric Business Processes"
+  author: Alin Deutsch and Richard Hull and Fabio Patrizi and Victor Vianu
+  link: paperpdfs/2009_5.pdf
+- year: 2009
+  venue: "ICDT"
+  title: "Querying Data Sources That Export Infinite Sets of Views"
+  author: Bogdan Cautis and Alin Deutsch and Nicola Onose
+  link: paperpdfs/2009_6.pdf
+- year: 2009
+  venue: "Encyclopedia of Database Systems"
+  title: "View-based Data Integration"
+  author: Yannis Katsis and Yannis Papakonstantinou
+  link: paperpdfs/2009_7.pdf
+- year: 2009
+  venue: N/A (Manuscript)
+  title: "Computationally Complete Relational Query Languages"
+  author: Dirk Van Gucht and Victor Vianu
+- year: 2009
+  venue: "CIDR"
+  title: "Search Driven Analysis of Heterogenous XML Data"
+  author: Andrey Balmin and Latha Colby and Emiran Curtmola and Quanzhong Li and Fatma Ozcan
+  link: paperpdfs/2009_8.pdf
+- year: 2009
+  venue: "VLDB"
+  title: "Efficient Rewriting of XPath Queries Using Query Set Specifications"
+  author: Bogdan Cautis and Alin Deutsch and Nicola Onose and Vasilis Vassalos
+  link: paperpdfs/2009_9.pdf
+- year: 2009
+  venue: "CIDR"
+  title: "Do-It-Yourself Database-Driven Web Applications (extended version)"
+  author: Keith Kowalczykowski and Kian Win Ong and Kevin Keliang Zhao and Alin Deutsch and Yannis Papakonstantinou and Michalis Petropoulos
+  link: paperpdfs/2009_10.pdf
+- year: 2009
+  venue: "ICDT"
+  title: "Automatic verification of database-driven systems: a new frontier"
+  author: Victor Vianu
+  link: paperpdfs/2009_11.pdf
+- year: 2009
+  venue: "Encyclopedia of Database Systems"
+  title: "XML Tuple Algebra"
+  author: Ioana Manolescu and Yannis Papakonstantinou and Vasilis Vassalos
+  link: paperpdfs/2009_12.pdf
+- year: 2009
+  venue: "TODS"
+  title: "Static analysis of active XML systems"
+  author: Serge Abiteboul and Luc Segoufin and Victor Vianu
+  link: paperpdfs/2009_13.pdf
+- year: 2009
+  venue: "IEEE Data Engineering Bulletin"
+  title: "Modeling and Verifying Active XML Artifacts"
+  author: Serge Abiteboul and Luc Segoufin and Victor Vianu
+  link: paperpdfs/2009_14.pdf
+- year: 2008
+  venue: N/A (Manuscript)
+  title: "Queries over Virtual Nested Objects"
+  author: Liang Jeff Chen and Yannis Papakonstantinou
+  link: paperpdfs/2008_1.pdf
+- year: 2008
+  venue: "IEEE Data Engineering Bulletin"
+  title: "WAVE: Automatic Verification of Data-Driven Web Services"
+  author: Alin Deutsch and Victor Vianu
+  link: paperpdfs/2008_2.pdf
+- year: 2008
+  venue: "VLDB"
+  title: "Managing and Querying Transaction-time Databases under Schema Evolution"
+  author: Hyun Moon and Carlo Curino and Alin Deutsch and Chien Hu and Carlo Zaniolo
+  link: paperpdfs/2008_3.pdf
+- year: 2008
+  venue: "VLDB"
+  title: "Interactive Source Registration in Community-oriented Information Integration"
+  author: Yannis Katsis and Alin Deutsch and Yannis Papakonstantinou
+  link: paperpdfs/2008_4.pdf
+- year: 2008
+  venue: "VLDB Demo"
+  title: "RIDE: A Tool for Interactive Source Registration in Community-oriented Information Integration"
+  author: Yannis Katsis and Alin Deutsch and Yannis Papakonstantinou and Kevin Keliang Zhao
+  link: paperpdfs/2008_5.pdf
+- year: 2008
+  venue: "VLDB Demo"
+  title: "SEDA: A System for Search, Exploration, Discovery, and Analysis of XML Data"
+  author: Andrey Balmin and Latha Colby and Emiran Curtmola and Quanzhong Li and Fatma Ozcan and Sharath Srinivas and Zografoula Vagena
+  link: paperpdfs/2008_6.pdf
+- year: 2008
+  venue: "VLDB Demo"
+  title: "XTreeNet: Democratic Community Search"
+  author: Emiran Curtmola and Alin Deutsch and Dionysios Logothetis and K.K. Ramakrishnan and Divesh Srivastava and Kenneth Yocum
+  link: paperpdfs/2008_7.pdf
+- year: 2008
+  venue: "PODS"
+  title: "The Chase Revisited"
+  author: Alin Deutsch and Alan Nash and Jeff Remmel
+  link: paperpdfs/2008_8.pdf
+- year: 2008
+  venue: "SIGMOD"
+  title: "XML Query Optimization in the Presence of Side Effects"
+  author: Giorgio Ghelli and Nicola Onose and Kristoffer Rose and Jerome Simeon
+  link: paperpdfs/2008_9.pdf
+- year: 2008
+  venue: "SIGMOD"
+  title: "Handling Data Skew in Parallel Joins in Shared-Nothing Systems"
+  author: Yu Xu and Pekka Kostamaa and Xin Zhou and Liang Jeff Chen
+- year: 2008
+  venue: "WebDB"
+  title: "XPath Rewriting Using Multiple Views: Achieving Completeness and Efficiency"
+  author: Bogdan Cautis and Alin Deutsch and Nicola Onose
+  link: paperpdfs/2008_10.pdf
+- year: 2008
+  venue: "XIME-P"
+  title: "A Restful Workflow Implementation on Top of Distributed XQuery"
+  author: Nicola Onose and Rania Khalaf and Kristoffer Rose and Jerome Simeon
+  link: paperpdfs/2008_11.pdf
+- year: 2008
+  venue: "PODS"
+  title: "Static Analysis of Active XML Systems"
+  author: Serge Abiteboul and Luc Segoufin and Victor Vianu
+  link: paperpdfs/2008_12.pdf
+- year: 2008
+  venue: N/A (Manuscript)
+  title: "XPath Views for Documents with Persistent Identifiers"
+  author: Bogdan Cautis and Alin Deutsch and Nicola Onose
+  link: paperpdfs/2008_13.pdf
+- year: 2008
+  venue: N/A (Manuscript)
+  title: "The Chase Revisited (Full Version)"
+  author: Alin Deutsch and Alan Nash and Jeff Remmel
+  link: paperpdfs/2008_14.pdf
+- year: 2008
+  venue: "EDBT"
+  title: "Efficient LCA-based keyword search in XML data"
+  author: Yu Xu and Yannis Papakonstantinou
+  link: paperpdfs/2008_15.pdf
+- year: 2008
+  venue: "TODS"
+  title: "Authority-Based Keyword Search in Databases"
+  author: Vagelis Hristidis and Heasoo Hwang and Yannis Papakonstantinou
+  link: paperpdfs/2008_16.pdf
+- year: 2008
+  venue: N/A (Manuscript)
+  title: "First Order Modeling of Integrity Constraints (DB Encyclopedia Entry)"
+  author: Alin Deutsch
+  link: paperpdfs/2008_17.pdf
+- year: 2008
+  venue: N/A (Manuscript)
+  title: "Chase (DB Encyclopedia Entry)"
+  author: Alin Deutsch and Alan Nash
+  link: paperpdfs/2008_18.pdf
+- year: 2007
+  venue: "TODS"
+  title: "Exporting and Interactively Querying Web Service-Accessed Sources: The CLIDE System"
+  author: Michalis Petropoulos and Alin Deutsch and Yannis Papakonstantinou and Yannis Katsis
+  link: paperpdfs/2007_1.pdf
+- year: 2007
+  venue: "CIKM"
+  title: "Efficient LCA based Keyword Search in XML Data"
+  author: Yu Xu and Yannis Papakonstantinou
+  link: paperpdfs/2007_2.pdf
+- year: 2007
+  venue: N/A (Manuscript)
+  title: "Privacy in Database Publishing: a Bayesian Perspective"
+  author: Alin Deutsch
+  link: paperpdfs/2007_3.pdf
+- year: 2007
+  venue: "VLDB"
+  title: "Structured Materialized Views for XML Queries"
+  author: Andrei Arion and Veronique Benzaken and Ioana Manolescu and Yannis Papakonstantinou
+  link: paperpdfs/2007_4.pdf
+- year: 2007
+  venue: "VLDB"
+  title: "Inverse Functions in the AquaLogic Data Services Platform"
+  author: Nicola Onose and Vinayak Borkar and Michael Carey
+  link: paperpdfs/2007_5.pdf
+- year: 2007
+  venue: "DBPL"
+  title: "A Better Semantics for XQuery with Side-Effects"
+  author: Giorgio Ghelli and Nicola Onose and Kristoffer Rose and Jerome Simeon
+  link: paperpdfs/2007_6.pdf
+- year: 2007
+  venue: N/A (Manuscript)
+  title: "Efficient LCA based Keyword Search in XML Data"
+  author: Yu Xu and Yannis Papakonstantinou
+  link: paperpdfs/2007_7.pdf
+- year: 2007
+  venue: "ICDT"
+  title: "Determinacy and Rewriting of Conjunctive Queries Using Views: A Progress Report"
+  author: Luc Segoufin and Alan Nash and Victor Vianu
+  link: paperpdfs/2007_8.pdf
+- year: 2007
+  venue: "IDAR"
+  title: "A Platform for Search in the Big Web 2.0"
+  author: Emiran Curtmola
+  link: paperpdfs/2007_9.pdf
+- year: 2007
+  venue: "SIGMOD"
+  title: "Highly Distributed XQuery with DXQ"
+  author: Mary Fernandez and Trevor Jim and Kristi Morton and Nicola Onose and Jerome Simeon
+  link: paperpdfs/2007_10.pdf
+- year: 2007
+  venue: "XIME-P"
+  title: "DXQ: A Distributed XQuery Scripting Language"
+  author: Mary Fernandez and Trevor Jim and Kristi Morton and Nicola Onose and Jerome Simeon
+  link: paperpdfs/2007_11.pdf
+- year: 2007
+  venue: "SIGMOD Demo"
+  title: "CLIDE: Interactive Query Formulation for Service Oriented Architectures"
+  author: Michalis Petropoulos and Alin Deutsch and Yannis Papakonstantinou
+  link: paperpdfs/2007_12.pdf
+- year: 2007
+  venue: "JCSS"
+  title: "Specification and Verification of Data-driven Web Applications"
+  author: Alin Deutsch and Liying Sui and Victor Vianu
+  link: paperpdfs/2007_13.pdf
+- year: 2007
+  venue: N/A (Manuscript)
+  title: "Querying Data Sources That Export Infinite Sets of Views"
+  author: Bogdan Cautis and Alin Deutsch and Nicola Onose
+  link: paperpdfs/2007_14.pdf
+- year: 2007
+  venue: "TCS"
+  title: "Rewriting Queries Using Views with Access Patterns under Integrity Constraints"
+  author: Alin Deutsch and Bertram Ludascher and Alan Nash
+  link: paperpdfs/2007_15.pdf
+- year: 2007
+  venue: "ICDT"
+  title: "Privacy in GLAV Information Integration"
+  author: Alin Deutsch and Alan Nash
+  link: paperpdfs/2007_16.pdf
+- year: 2006
+  venue: N/A (Manuscript)
+  title: "Privacy in GLAV Information Integration (extended version of ICDT'07 paper)"
+  author: Alin Deutsch and Alan Nash
+- year: 2006
+  venue: "TODS"
+  title: "Representing and querying XML with incomplete information"
+  author: Victor Vianu and Serge Abiteboul and Luc Segoufin
+  link: paperpdfs/2006_1.pdf
+- year: 2006
+  venue: "VLDB"
+  title: "Query Processing in the AquaLogic Data Services Platform"
+  author: Vinayak Borkar and Nicola Onose and Daniel Engovatov and Till Westmann and Dmitry Lychagin and Michael Carey
+  link: paperpdfs/2006_2.pdf
+- year: 2006
+  venue: "SIGMOD"
+  title: "Flexible and Efficient XML Search with Complex Full-Text Predicates"
+  author: Alin Deutsch and Sihem Amer-Yahia and Emiran Curtmola
+  link: paperpdfs/2006_3.pdf
+- year: 2006
+  venue: "PODS"
+  title: "Verification of Communicating Data-driven Web Services"
+  author: Alin Deutsch and Victor Vianu and Liying Sui and Dayou Zhou
+  link: paperpdfs/2006_4.pdf
+- year: 2006
+  venue: "SIGMOD"
+  title: "Interactive Query Formulation over Web Service-Accessed Sources"
+  author: Alin Deutsch and Yannis Papakonstantinou and Michalis Petropoulos
+  link: paperpdfs/2006_5.pdf
+- year: 2006
+  venue: "SIGMOD"
+  title: "Rewriting Nested XML Queries Using Nested Views"
+  author: Alin Deutsch and Yannis Papakonstantinou and Nicola Onose and Emiran Curtmola
+  link: paperpdfs/2006_6.pdf
+- year: 2006
+  venue: "SIGMOD Demo"
+  title: "A System for Specification and Verification of Interactive, Data-driven Web Applications"
+  author: Alin Deutsch and Victor Vianu and Liying Sui and Dayou Zhou
+  link: paperpdfs/2006_7.pdf
+- year: 2006
+  venue: N/A (Manuscript)
+  title: "Data Exchange, Data Integration and Chase"
+  author: Alin Deutsch and Alan Nash and Jeff Remmel
+  link: paperpdfs/2006_8.pdf
+- year: 2006
+  venue: "SIGMOD Record"
+  title: "Query Reformulation with Constraints"
+  author: Alin Deutsch and Val Tannen and Lucian Popa
+  link: paperpdfs/2006_9.pdf
+- year: 2006
+  venue: "SIGMOD Demo"
+  title: "ObjectRank: A System for Authority-based Search on Databases"
+  author: Yannis Papakonstantinou and Vagelis Hristidis and Heasoo Hwang
+  link: paperpdfs/2006_10.pdf
+- year: 2006
+  venue: "Information Systems"
+  title: "Branch-and-Bound Processing of Ranked Queries"
+  author: Yannis Papakonstantinou and Vagelis Hristidis and Yufei Tao and Dimitris Papadias
+  link: paperpdfs/2006_11.pdf
+- year: 2006
+  venue: "FQAS"
+  title: "Algebra-based identification of tree patterns in XQuery"
+  author: Andrei Arion and Veronique Benzaken and Ioana Manolescu and Yannis Papakonstantinou and Ravi Vijay
+  link: paperpdfs/2006_12.pdf
+- year: 2006
+  venue: "BDA"
+  title: "Structured Materialized Views for XML Queries"
+  author: Ioana Manolescu and Veronique Benzaken and Andrei Arion and Yannis Papakonstantinou
+  link: paperpdfs/2006_13.pdf
+- year: 2006
+  venue: "IEEE Transactions on Knowledge and Data Engineering"
+  title: "Keyword Proximity Search in XML Trees"
+  author: Divesh Srivastava and Yannis Papakonstantinou and Vagelis Hristidis and Nick Koudas
+  link: paperpdfs/2006_14.pdf
+- year: 2005
+  venue: "ICWE"
+  title: "The Role of Visual Tools in a Web Application Design and Verification Framework: a Visual Notation for LTL Formulae"
+  author: Alin Deutsch and Victor Vianu and Liying Sui and Marco Brambilla
+  link: paperpdfs/2005_1.pdf
+- year: 2005
+  venue: "ICCS"
+  title: "What is a Concept?"
+  author: Joseph Goguen
+  link: paperpdfs/2005_2.pdf
+- year: 2005
+  venue: "Jon Barwise memorial volume edited by Larry Moss"
+  title: "Information Integration in Institutions"
+  author: Joseph Goguen
+  link: paperpdfs/2005_3.pdf
+- year: 2005
+  venue: "PODS"
+  title: "Composition of Mappings Given by Embedded Dependencies"
+  author: Alan Nash and Philip Bernstein and Sergey Melnik
+  link: paperpdfs/2005_4.pdf
+- year: 2005
+  venue: "SIGMOD"
+  title: "A Verifier for Interactive, Data-driven Web Applications"
+  author: Alin Deutsch and Victor Vianu and Liying Sui and Dayou Zhou and Monica Marcus
+  link: paperpdfs/2005_5.ps
+- year: 2005
+  venue: "PODS"
+  title: "Determining Source Contribution in Integration Systems"
+  author: Alin Deutsch and Yannis Papakonstantinou and Yannis Katsis
+  link: paperpdfs/2005_6.pdf
+- year: 2005
+  venue: "PODS"
+  title: "Views and Queries: Determinacy and Rewriting"
+  author: Victor Vianu and Luc Segoufin
+  link: paperpdfs/2005_7.pdf
+- year: 2005
+  venue: "SIGMOD"
+  title: "Efficient Keyword Search for Smallest LCAs in XML Databases"
+  author: Yannis Papakonstantinou and Yu Xu
+  link: paperpdfs/2005_8.pdf
+- year: 2005
+  venue: "SIGMOD"
+  title: "Extending XQuery for Analytics"
+  author: Yu Xu and Latha Colby and Kevin Beyer and Don Chamberlin and Fatma Ozcan and Hamid Pirahesh
+  link: paperpdfs/2005_9.pdf
+- year: 2005
+  venue: "XIME-P"
+  title: "GalaTex: A Conformant Implementation of the XQuery Full-Text Language"
+  author: Mary Fernandez and Sihem Amer-Yahia and Emiran Curtmola and Philip Brown
+  link: paperpdfs/2005_10.pdf
+- year: 2005
+  venue: "TOIT"
+  title: "Graphical Query Interfaces for Semistructured Data: The QURSED System"
+  author: Yannis Papakonstantinou and Vasilis Vassalos and Michalis Petropoulos
+  link: paperpdfs/2005_11.pdf
+- year: 2005
+  venue: "SIGCSE"
+  title: "Building an XQuery Interpreter in a Compiler Construction Course"
+  author: Sara Miner-More and Tim Pevzner and Alin Deutsch and Scott Baden and Paul Kube
+  link: paperpdfs/2005_12.pdf
+- year: 2005
+  venue: "TCS"
+  title: "XML Queries and Constraints, Containment and Reformulation"
+  author: Alin Deutsch and Val Tannen
+  link: paperpdfs/2005_13.pdf
+- year: 2005
+  venue: N/A (Manuscript)
+  title: "Rewriting Nested XML Queries Using Nested Views"
+  author: Alin Deutsch and Yannis Papakonstantinou and Nicola Onose and Emiran Curtmola
+- year: 2005
+  venue: "Semantic Interoperability and Integration"
+  title: "Integrating XML Data Sources using RDF/S Schemas: The ICS-FORTH Semantic Web Integration Middleware (SWIM)"
+  author: Ioanna Koffina and Giorgos Serfiotis and Vassilis Christophides and Val Tannen and Alin Deutsch
+  link: paperpdfs/2005_14.pdf
+- year: 2005
+  venue: "ICDT"
+  title: "Rewriting Queries Using Views with Access Patterns Under Integrity Constraints"
+  author: Alin Deutsch and Bertram Ludascher and Alan Nash
+  link: paperpdfs/2005_15.pdf
+- year: 2005
+  venue: "ICDT"
+  title: "Privacy in Database Publishing"
+  author: Alin Deutsch and Yannis Papakonstantinou
+  link: paperpdfs/2005_16.pdf
+- year: 2005
+  venue: "ICDT"
+  title: "PTIME Queries Revisited"
+  author: Victor Vianu and Alan Nash and Jeff Remmel
+  link: paperpdfs/2005_17.pdf
+- year: 2004
+  venue: "TODS"
+  title: "Incremental Validation of XML Documents"
+  author: Victor Vianu and Yannis Papakonstantinou and Andrey Balmin
+  link: paperpdfs/2004_1.pdf
+- year: 2004
+  venue: "SIGMOD Record"
+  title: "Industrial-Strength Schema Matching"
+  author: Michalis Petropoulos and Philip Bernstein and Sergey Melnik and Christoph Quix
+- year: 2004
+  venue: "FOIS"
+  title: "[Newly Revised] Ontology, Society, and Ontotheology,"
+  author: Joseph Goguen
+  link: paperpdfs/2004_2.pdf
+- year: 2004
+  venue: "Seminar 04391, Semantic Interoperability and Integration"
+  title: "Three Perspectives on Information Integration"
+  author: Joseph Goguen
+  link: paperpdfs/2004_3.pdf
+- year: 2004
+  venue: "VLDB"
+  title: "The NEXT Logical Framework for XQuery"
+  author: Alin Deutsch and Yannis Papakonstantinou and Yu Xu
+  link: paperpdfs/2004_4.pdf
+- year: 2004
+  venue: "VLDB"
+  title: "Authority-Based Keyword Queries in Databases using ObjectRank"
+  author: Yannis Papakonstantinou and Andrey Balmin and Vagelis Hristidis
+  link: paperpdfs/2004_5.pdf
+- year: 2004
+  venue: "CombLog"
+  title: "Data, Schema, Ontology, and Logic Integration"
+  author: Joseph Goguen
+- year: 2004
+  venue: "PODS"
+  title: "Specification and Verification of Data-Driven Web Services"
+  author: Alin Deutsch and Victor Vianu and Liying Sui
+  link: paperpdfs/2004_6.pdf
+- year: 2004
+  venue: "PODS"
+  title: "Processing First-Order Queries Under Limited Access Patterns"
+  author: Bertram Ludascher and Alan Nash
+- year: 2004
+  venue: "SIGMOD Demo"
+  title: "YooHoo! Building a Presence Service with XQuery and WSDL"
+  author: Mary Fernandez and Richard Hull and Nicola Onose and Jerome Simeon
+  link: paperpdfs/2004_7.pdf
+- year: 2004
+  venue: "WWW"
+  title: "XQuery at Your Web Service"
+  author: Nicola Onose and Jerome Simeon
+  link: paperpdfs/2004_8.pdf
+- year: 2004
+  venue: "APWeb"
+  title: "Critical Points for Interactive Schema Matching"
+  author: Joseph Goguen and Guilian Wang and Kai Lin and Young-Kwang Nam
+  link: paperpdfs/2004_9.ps
+- year: 2004
+  venue: "ICDE"
+  title: "Minimization and Group-By Detection for Nested XQueries"
+  author: Alin Deutsch and Yannis Papakonstantinou and Yu Xu
+  link: paperpdfs/2004_10.pdf
+- year: 2004
+  venue: "EDBT"
+  title: "Processing Unions of Conjunctive Queries with Negation Under Limited Access Patterns"
+  author: Bertram Ludascher and Alan Nash
+- year: 2004
+  venue: "VLDB Journal"
+  title: "Storing and Querying XML Data Using Denormalized Relational Databases"
+  author: Yannis Papakonstantinou and Andrey Balmin
+  link: paperpdfs/2004_11.pdf
+- year: 2004
+  venue: "VLDB Journal"
+  title: "Algorithms and Applications for answering Ranked Queries using Ranked Views"
+  author: Yannis Papakonstantinou and Vagelis Hristidis
+  link: paperpdfs/2004_12.pdf
+- year: 2004
+  venue: "SIGMOD Demo"
+  title: "Share your data, Keep your secrets."
+  author: Irini Fundulaki and Arnaud Sahuguet and Guillaume Giraud and Nicola Onose and Nicolas Pombourcq and Daniel Lieuwen
+  link: paperpdfs/2004_13.pdf
+- year: 2004
+  venue: "TOCL"
+  title: "Finite state machines for strings over infinite alphabets"
+  author: Victor Vianu and Frank Neven and Thomas Schwentick
+  link: paperpdfs/2004_14.ps
+- year: 2003
+  venue: "SBBD"
+  title: "XML: From Practice to Theory"
+  author: Victor Vianu
+  link: paperpdfs/2003_1.ps
+- year: 2003
+  venue: "VLDB"
+  title: "MARS: A System for Publishing XML from Mixed and Redundant Storage"
+  author: Alin Deutsch and Val Tannen
+  link: paperpdfs/2003_2.pdf
+- year: 2003
+  venue: "VLDB"
+  title: "Phrase Matching in XML"
+  author: Divesh Srivastava and Yu Xu and Sihem Amer-Yahia
+  link: paperpdfs/2003_3.pdf
+- year: 2003
+  venue: "WebDB"
+  title: "The Query Set Specification Language (QSSL)"
+  author: Alin Deutsch and Yannis Papakonstantinou and Michalis Petropoulos
+  link: paperpdfs/2003_4.pdf
+- year: 2003
+  venue: "SIGMOD Demo"
+  title: "PIX: Exact and Approximate Phrase Matching in XML"
+  author: Divesh Srivastava and Yu Xu and Sihem Amer-Yahia
+- year: 2003
+  venue: "ICDE"
+  title: "Keyword Proximity Search on XML Graphs"
+  author: Yannis Papakonstantinou and Andrey Balmin and Vagelis Hristidis
+  link: paperpdfs/2003_5.pdf
+- year: 2003
+  venue: "ICDE Demo"
+  title: "PIX: A System for Phrase Matching in XML Documents"
+  author: Divesh Srivastava and Yu Xu and Sihem Amer-Yahia
+- year: 2003
+  venue: "STACS"
+  title: "Logic as a Query Language: From Frege to XML"
+  author: Victor Vianu
+  link: paperpdfs/2003_6.ps
+- year: 2003
+  venue: "Data &amp; Knowledge Engineering"
+  title: "XML queries and algebra in the Enosys integration platform"
+  author: Yannis Papakonstantinou and Vasilis Vassalos and Pavel Velikhov and Vinayak Borkar and Maxim Orgiyan and Konstantinos Stathatos and Lucian Suta
+  link: paperpdfs/2003_7.pdf
+- year: 2003
+  venue: "ICDT"
+  title: "Reformulation of XML Queries and Constraints"
+  author: Alin Deutsch and Val Tannen
+  link: paperpdfs/2003_8.pdf
+- year: 2003
+  venue: "ICDT"
+  title: "Incremental Validation of XML Documents"
+  author: Victor Vianu and Yannis Papakonstantinou
+  link: paperpdfs/2003_9.pdf
+- year: 2003
+  venue: "VLDB"
+  title: "Efficient IR-Style Keyword Search over Relational Databases"
+  author: Yannis Papakonstantinou and Luis Gravano and Vagelis Hristidis
+  link: paperpdfs/2003_10.pdf
+- year: 2003
+  venue: "JCSS"
+  title: "Typechecking for XML transformers"
+  author: Dan Suciu and Victor Vianu and Tova Milo
+  link: paperpdfs/2003_11.ps
+- year: 2003
+  venue: "TOCL"
+  title: "Typechecking XML views of relational databases"
+  author: Dan Suciu and Victor Vianu and Tova Milo and Noga Alon and Frank Neven
+  link: paperpdfs/2003_12.ps
+- year: 2003
+  venue: "VLDB Demo"
+  title: "A System for Keyword Search on XML Databases"
+  author: Divesh Srivastava and Yannis Papakonstantinou and Andrey Balmin and Vagelis Hristidis and Nick Koudas and Tianqiu Wang
+  link: paperpdfs/2003_13.pdf
+- year: 2003
+  venue: "JCSS"
+  title: "XML with data values: typechecking revisited"
+  author: Dan Suciu and Victor Vianu and Tova Milo and Noga Alon and Frank Neven
+  link: paperpdfs/2003_14.ps
+- year: 2002
+  venue: "TODS"
+  title: "Understanding the global semantics of referential actions using logic rules"
+  author: Bertram Ludascher and Wolfgang May
+- year: 2002
+  venue: "SIGMOD Record"
+  title: "Report on the EDBT'02 Panel on Scientific Data Integration"
+  author: Bertram Ludascher and Omar Boucelma and Silvana Castano and Carole Goble and Vanja Josifovski and Zoe Lacroix
+- year: 2002
+  venue: "SIGMOD"
+  title: "QURSED: Querying and Reporting Semistructured Data"
+  author: Yannis Papakonstantinou and Vasilis Vassalos and Michalis Petropoulos
+  link: paperpdfs/2002_1.pdf
+- year: 2002
+  venue: "WebDB"
+  title: "Semantic Caching of XML Databases"
+  author: Michalis Petropoulos and Vagelis Hristidis
+  link: paperpdfs/2002_2.pdf
+- year: 2002
+  venue: "EGOV"
+  title: "Multi-level Information Modeling and Preservation of eGOV Data"
+  author: Bertram Ludascher and Richard Marciano and Reagan Moore and Ilya Zaslavsky and Keith Pezzoli
+- year: 2002
+  venue: "IEEE Data Engineering Bulletin"
+  title: "Architecture and Implementation of an XQuery-based Information Integration Platform"
+  author: Yannis Papakonstantinou and Vasilis Vassalos
+  link: paperpdfs/2002_3.pdf
+- year: 2002
+  venue: "Computer Networks"
+  title: "Building XML query forms and reports with XQForms"
+  author: Yannis Papakonstantinou and Vasilis Vassalos and Michalis Petropoulos
+  link: paperpdfs/2002_4.pdf
+- year: 2002
+  venue: "ER"
+  title: "Registering Scientific Information Sources for Semantic Mediation"
+  author: Bertram Ludascher and Amarnath Gupta and Maryann Martone
+- year: 2002
+  venue: "EDBT"
+  title: "Navigating Virtual Information Sources with Know-ME"
+  author: Bertram Ludascher and Amarnath Gupta and Maryann Martone and Xufei Qian
+- year: 2002
+  venue: "BNCOD"
+  title: "A System for Managing Alternate Models in Model-Based Mediation"
+  author: Bertram Ludascher and Amarnath Gupta and Maryann Martone and Xufei Qian and Edward Ross and Joshua Tran and Ilya Zaslavsky
+- year: 2002
+  venue: "JCDL"
+  title: "Ontology services for curriculum development in NSDL"
+  author: Bertram Ludascher and Reagan Moore and Amarnath Gupta
+- year: 2002
+  venue: "VLDB"
+  title: "A Transducer-Based XML Query Processor"
+  author: Bertram Ludascher and Yannis Papakonstantinou and Pratik Mukhopadhyay
+  link: paperpdfs/2002_5.pdf
+- year: 2002
+  venue: "PODS"
+  title: "Validating Streaming XML Documents"
+  author: Victor Vianu and Luc Segoufin
+  link: paperpdfs/2002_6.ps
+- year: 2002
+  venue: "ICDE"
+  title: "Mixing Querying and Navigation in MIX"
+  author: Yannis Papakonstantinou and Pratik Mukhopadhyay
+  link: paperpdfs/2002_7.pdf
+- year: 2002
+  venue: "VLDB"
+  title: "DISCOVER: Keyword Search in Relational Databases"
+  author: Yannis Papakonstantinou and Vagelis Hristidis
+  link: paperpdfs/2002_8.pdf
+- year: 2002
+  venue: "EDBT Workshops"
+  title: "Time to Leave the Trees: From Syntactic to Conceptual Querying of XML"
+  author: Bertram Ludascher and Amarnath Gupta and Ilkay Altintas
+- year: 2001
+  venue: N/A (Manuscript)
+  title: "Containment and Integrity Constraints for XPath Fragments"
+  author: Alin Deutsch and Val Tannen
+  link: paperpdfs/2001_1.pdf
+- year: 2001
+  venue: N/A (Manuscript)
+  title: "Merging results from Multi-parametric Ranked Queries"
+  author: Yannis Papakonstantinou and Vagelis Hristidis
+  link: paperpdfs/2001_2.pdf
+- year: 2001
+  venue: "KRDB"
+  title: "Containment and Integrity Constraints for XPath"
+  author: Alin Deutsch and Val Tannen
+  link: paperpdfs/2001_3.pdf
+- year: 2001
+  venue: "ICDE"
+  title: "Model-Based Mediation with Domain Maps"
+  author: Bertram Ludascher and Amarnath Gupta and Maryann Martone
+- year: 2001
+  venue: "LICS"
+  title: "Typechecking XML Views of Relational Databases"
+  author: Dan Suciu and Victor Vianu and Tova Milo and Noga Alon and Frank Neven
+- year: 2001
+  venue: "PODS"
+  title: "XML with Data Values: Typechecking Revisited"
+  author: Dan Suciu and Victor Vianu and Tova Milo and Noga Alon and Frank Neven
+- year: 2001
+  venue: "PODS"
+  title: "A Web Odyssey: From Codd to XML"
+  author: Victor Vianu
+  link: paperpdfs/2001_4.ps
+- year: 2001
+  venue: "MFCS"
+  title: "Towards Regular Languages over Infinite Alphabets"
+  author: Victor Vianu and Frank Neven and Thomas Schwentick
+- year: 2001
+  venue: "PODS"
+  title: "Representing and Querying XML with Incomplete Information"
+  author: Victor Vianu and Serge Abiteboul and Luc Segoufin
+- year: 2001
+  venue: "SIGMOD"
+  title: "PREFER: A System for the Efficient Execution of Multi-parametric Ranked Queries"
+  author: Yannis Papakonstantinou and Vagelis Hristidis and Nick Koudas
+  link: paperpdfs/2001_5.pdf
+- year: 2001
+  venue: "CIKM"
+  title: "The Enosys Markets Data Integration Platform: Lessons from the Trenches"
+  author: Yannis Papakonstantinou and Vasilis Vassalos
+  link: paperpdfs/2001_6.pdf
+- year: 2001
+  venue: "WWW"
+  title: "XML Query Forms (XQForms): Declarative Specification of XML Query Interfaces"
+  author: Yannis Papakonstantinou and Vasilis Vassalos and Michalis Petropoulos
+  link: paperpdfs/2001_7.pdf
+- year: 2001
+  venue: "DBPL"
+  title: "Optimization Properties for Classes of Conjunctive Regular Path Queries"
+  author: Alin Deutsch and Val Tannen
+  link: paperpdfs/2001_8.pdf
+- year: 2001
+  venue: "DEXA Workshop"
+  title: "Query Evaluation and Presentation Planning within a Spatial Mediator: Extending XML-based Mediation to Heterogeneous Sources of GIS and Imagery Data (Invited Address)"
+  author: Bertram Ludascher and Amarnath Gupta and Ilya Zaslavsky and Shabbar Tambawala
+- year: 2001
+  venue: "ICDE Demo"
+  title: "An Extensible Model-Based Mediatior System with Domain Maps"
+  author: Bertram Ludascher and Amarnath Gupta and Maryann Martone
+- year: 2001
+  venue: "SIGMOD Record"
+  title: "Preservation of Digital Data with Self-Validating, Self-Instantiating Knowledge-Based Archives"
+  author: Bertram Ludascher and Richard Marciano and Reagan Moore
+- year: 2001
+  venue: "RIDE-DM"
+  title: "Towards Self-Validating Knowledge-Based Archives"
+  author: Bertram Ludascher and Richard Marciano and Reagan Moore
+- year: 2000
+  venue: "JCSS"
+  title: "Querying Spatial Databases via Topological Invariants"
+  author: Victor Vianu and Luc Segoufin
+- year: 2000
+  venue: "TCS"
+  title: "Queries and computation on the web"
+  author: Victor Vianu and Serge Abiteboul
+- year: 2000
+  venue: "JCSS"
+  title: "Relational Transducers for Electronic Commerce"
+  author: Victor Vianu and Serge Abiteboul and Brad Fordham and Yelena Yesha
+- year: 2000
+  venue: "SIGMOD Record"
+  title: "SIGMOD Sister Societies"
+  author: Victor Vianu and Stefano Ceri and Leonid Kalinichenko and Masaru Kitsuregawa and Hongjun Lu and Zehra Ozsoyoglu and Richard Snodgrass
+- year: 2000
+  venue: "JLP"
+  title: "Expressive Capabilities Description Languages and Query Rewriting Algorithms"
+  author: Yannis Papakonstantinou and Vasilis Vassalos
+  link: paperpdfs/2000_1.pdf
+- year: 2000
+  venue: "SIGMOD"
+  title: "A Chase Too Far?"
+  author: Alin Deutsch and Arnaud Sahuguet and Val Tannen and Lucian Popa
+  link: paperpdfs/2000_2.pdf
+- year: 2000
+  venue: "VLDB"
+  title: "Model-Based Information Integration in a Neuroscience Mediator System"
+  author: Bertram Ludascher and Amarnath Gupta and Maryann Martone
+- year: 2000
+  venue: "SSDBM"
+  title: "Knowledge-Based Integration of Neuroscience Data Sources"
+  author: Bertram Ludascher and Amarnath Gupta and Maryann Martone
+- year: 2000
+  venue: "EDBT"
+  title: "Navigation-Driven Evaluation of Virtual Mediated Views"
+  author: Bertram Ludascher and Yannis Papakonstantinou and Pavel Velikhov
+  link: paperpdfs/2000_3.pdf
+- year: 2000
+  venue: "PODS"
+  title: "Typechecking for XML Transformers"
+  author: Dan Suciu and Victor Vianu and Tova Milo
+- year: 2000
+  venue: "Constraint Databases"
+  title: "Topological Queries"
+  author: Victor Vianu and Bart Kuijpers
+- year: 2000
+  venue: "PODS"
+  title: "DTD Inference for Views of XML Data"
+  author: Victor Vianu and Yannis Papakonstantinou
+  link: paperpdfs/2000_4.pdf
+- year: 2000
+  venue: "ICDE"
+  title: "Optimization of Hypothetical Queries in an OLAP Environment"
+  author: Yannis Papakonstantinou and Andrey Balmin and Thanos Papadimitriou
+  link: paperpdfs/2000_5.pdf
+- year: 2000
+  venue: "VLDB"
+  title: "Hypothetical Queries in an OLAP Environment"
+  author: Yannis Papakonstantinou and Andrey Balmin and Thanos Papadimitriou
+  link: paperpdfs/2000_6.pdf
+- year: 2000
+  venue: "VDB"
+  title: "BBQ: A Visual Interface for Integrated Browsing and Querying of XML"
+  author: Yannis Papakonstantinou and Kevin Munroe
+  link: paperpdfs/2000_7.pdf
+- year: 2000
+  venue: "SIGMOD Record"
+  title: "Reminiscences on Influential Papers"
+  author: Alon Levy and Victor Vianu and Kenneth Ross and Christos Faloutsos and Patrick O'Neil and Eric Simon and Divesh Srivastava and Gerhard Weikum
+- year: 2000
+  venue: "TCS"
+  title: "Games and total Datalog queries"
+  author: Bertram Ludascher and Jorg Flum and Max Kubierschky
+- year: 2000
+  venue: "ACM SIGMOD Digital Review"
+  title: "Review - On Instance-Completeness for Database Query Languages involving Object Creation"
+  author: Victor Vianu
+- year: 2000
+  venue: "ACM SIGMOD Digital Review"
+  title: "Review - Exact and Approximate Aggregation in Constraint Query"
+  author: Victor Vianu
+- year: 1999
+  venue: "JCSS"
+  title: "Regular Path Queries with Constraints"
+  author: Victor Vianu and Serge Abiteboul
+- year: 1999
+  venue: "SIGMOD"
+  title: "Storing Semistructured Data with STORED"
+  author: Alin Deutsch and Mary Fernandez and Dan Suciu
+  link: paperpdfs/1999_1.pdf
+- year: 1999
+  venue: "VLDB"
+  title: "Physical Data Independence, Constraints, and Optimization with Universal Plans"
+  author: Alin Deutsch and Val Tannen and Lucian Popa
+  link: paperpdfs/1999_2.pdf
+- year: 1999
+  venue: "ACM DL"
+  title: "XML-based Information Mediation for Digital Libraries"
+  author: Bertram Ludascher and Richard Marciano and Yannis Papakonstantinou and Amarnath Gupta and Chaitanya Baru and Vincent Chu and Pavel Velikhov
+- year: 1999
+  venue: "SIGMOD"
+  title: "XML-Based Information Mediation with MIX"
+  author: Bertram Ludascher and Richard Marciano and Yannis Papakonstantinou and Amarnath Gupta and Chaitanya Baru and Vincent Chu and Pavel Velikhov
+  link: paperpdfs/1999_3.pdf
+- year: 1999
+  venue: "WebDB"
+  title: "A Framework for Navigation-Driven Lazy Mediators"
+  author: Bertram Ludascher and Yannis Papakonstantinou and Pavel Velikhov
+  link: paperpdfs/1999_4.pdf
+- year: 1999
+  venue: "CSL"
+  title: "Topological Queries in Spatial Databases"
+  author: Dan Suciu and Victor Vianu and Christos Papadimitriou
+- year: 1999
+  venue: "ICDE"
+  title: "Enhancing Semistructured Data Mediators with Document Type Definitions"
+  author: Yannis Papakonstantinou and Pavel Velikhov
+  link: paperpdfs/1999_5.pdf
+- year: 1999
+  venue: "SIGMOD"
+  title: "Query Rewriting for Semistructured Data"
+  author: Yannis Papakonstantinou and Vasilis Vassalos
+  link: paperpdfs/1999_6.pdf
+- year: 1999
+  venue: "Computer Networks"
+  title: "A Query Language for XML"
+  author: Alin Deutsch and Mary Fernandez and Daniela Florescu and Alon Levy and Dan Suciu
+  link: paperpdfs/1999_7.pdf
+- year: 1999
+  venue: "IEEE Data Engineering Bulletin"
+  title: "Querying XML Data"
+  author: Alin Deutsch and Mary Fernandez and Daniela Florescu and Alon Levy and Dan Suciu and David Maier
+  link: paperpdfs/1999_8.pdf
+- year: 1999
+  venue: "ER Workshops"
+  title: "Modeling Interactive Web Sources for Information Mediation"
+  author: Bertram Ludascher and Amarnath Gupta
+- year: 1999
+  venue: "ER Workshops"
+  title: "A Unified Framework for Wrapping, Mediating and Restructuring Information from the Web"
+  author: Bertram Ludascher and Rainer Himmeroder and Georg Lausen and Wolfgang May
+- year: 1999
+  venue: "JCSS"
+  title: "Topological Queries in Spatial Databases"
+  author: Dan Suciu and Victor Vianu and Christos Papadimitriou
+- year: 1999
+  venue: N/A (Manuscript)
+  title: "XML Query Languages: Experiences and Exemplars"
+  author: Mary Fernandez and Jerome Simeon and Philip Wadler and Sophie Cluet and Alin Deutsch and Daniela Florescu and Alon Levy and David Maier and Jonathan Robie and Dan Suciu and Jennifer Widom
+  link: paperpdfs/1999_9.pdf
+- year: 1998
+  venue: "Distributed and Parallel Databases"
+  title: "Capabilities-Based Query Rewriting in Mediator Systems"
+  author: Yannis Papakonstantinou and Ashish Gupta and Laura Haas
+  link: paperpdfs/1998_1.pdf
+- year: 1998
+  venue: "IEEE Data Engineering Bulletin"
+  title: "Mediating and Metasearching on the Internet"
+  author: Yannis Papakonstantinou and Luis Gravano
+  link: paperpdfs/1998_2.pdf
+- year: 1998
+  venue: N/A (Manuscript)
+  title: "Integration of Active and Deductive Database Rules"
+  author: Bertram Ludascher
+- year: 1998
+  venue: "Logics for Databases and Information Systems"
+  title: "On Logical Foundations of Active Databases"
+  author: Bertram Ludascher and Georg Lausen and Wolfgang May
+- year: 1998
+  venue: "Transactions and Change in Logic Databases"
+  title: "On Active Deductive Databases: The Statelog Approach"
+  author: Bertram Ludascher and Georg Lausen and Wolfgang May
+- year: 1998
+  venue: "EDBT"
+  title: "Referential Actions: From Logical Semantics to Implementation"
+  author: Bertram Ludascher and Wolfgang May
+- year: 1998
+  venue: "EDBT"
+  title: "Fusion Queries over Internet Databases"
+  author: Serge Abiteboul and Yannis Papakonstantinou and Hector Garcia-Molina and Ramana Yerneni
+  link: paperpdfs/1998_3.pdf
+- year: 1998
+  venue: "PODS"
+  title: "Querying Spatial Databases via Topological Invariants"
+  author: Victor Vianu and Luc Segoufin
+- year: 1998
+  venue: "BDA"
+  title: "Active Views for Electronic Commerce"
+  author: Victor Vianu and Serge Abiteboul and Bernd Amann and Sophie Cluet and Tova Milo
+- year: 1998
+  venue: "PODS"
+  title: "Relational Transducers for Electronic Commerce"
+  author: Victor Vianu and Serge Abiteboul and Yelena Yesha and Bradley Fordham
+- year: 1998
+  venue: "SIGMOD"
+  title: "Capability Based Mediation in TSIMMIS"
+  author: Yannis Papakonstantinou and Vasilis Vassalos and Hector Garcia-Molina and Jeffrey Ullman and Ramana Yerneni and Chen Li and Murty Valiveti
+  link: paperpdfs/1998_4.pdf
+- year: 1998
+  venue: "QL"
+  title: "XML-QL"
+  author: Alin Deutsch and Mary Fernandez and Daniela Florescu and Alon Levy and Dan Suciu
+- year: 1998
+  venue: N/A (Manuscript)
+  title: "Xml-ql: A Query Language for XML"
+  author: Alin Deutsch and Mary Fernandez and Daniela Florescu and Alon Levy and Dan Suciu
+- year: 1998
+  venue: "QL"
+  title: "Beyond XML Query Languages"
+  author: Alin Deutsch and Peter Buneman and Wenfei Fan and Hartmut Liefke and Arnaud Sahuguet and Wang-Chiew Tan
+  link: paperpdfs/1998_5.pdf
+- year: 1998
+  venue: "Datenbank Rundbrief"
+  title: "Integration of Active and Deductive Database Rules (Abstract)"
+  author: Bertram Ludascher
+- year: 1998
+  venue: "Informatica (Lithuanian Academy of Sciences)"
+  title: "Handling Termination in a Logical Language for Active Rules"
+  author: Bertram Ludascher and Georg Lausen
+- year: 1998
+  venue: "GvD"
+  title: "Querying the Web with FLORID"
+  author: Bertram Ludascher and Rainer Himmeroder
+- year: 1998
+  venue: "Information Systems"
+  title: "Managing Semistructured Data with FLORID: A Deductive Object-Oriented Perspective"
+  author: Bertram Ludascher and Rainer Himmeroder and Georg Lausen and Wolfgang May and Christian Schlepphorst
+- year: 1998
+  venue: "DDLP"
+  title: "Search, Analysis, and Integration of Web Documents: A Case Study with FLORID"
+  author: Bertram Ludascher and Rainer Himmeroder and Georg Lausen and Wolfgang May and Paul-Thomas Kandzia
+- year: 1998
+  venue: "QL"
+  title: "Features and Requirements for an XML View Definition Language: Lessons from XML Information Mediation"
+  author: Bertram Ludascher and Victor Vianu and Yannis Papakonstantinou and Chaitanya Baru and Pavel Velikhov
+  link: paperpdfs/1998_6.pdf
+- year: 1998
+  venue: "JCSS"
+  title: "Semantics and Expressiveness Issues in Active Databases"
+  author: Victor Vianu and Philippe Picouet
+- year: 1998
+  venue: "Information and Computation"
+  title: "Reflective Relational Machines"
+  author: Victor Vianu and Serge Abiteboul and Christos Papadimitriou
+- year: 1998
+  venue: "TCS"
+  title: "A Probabilistic View of Datalog Parallelization"
+  author: Victor Vianu and Sergio Lifschitz
+- year: 1997
+  venue: "JACM"
+  title: "Fixpoint logics, relational machines, and computational complexity"
+  author: Victor Vianu and Serge Abiteboul and Moshe Vardi
+- year: 1997
+  venue: "JIIS"
+  title: "The TSIMMIS Approach to Mediation: Data Models and Languages"
+  author: Yannis Papakonstantinou and Vasilis Vassalos and Hector Garcia-Molina and Dallan Quass and Anand Rajaraman and Yehoshua Sagiv and Jeffrey Ullman and Jennifer Widom
+  link: paperpdfs/1997_1.pdf
+- year: 1997
+  venue: "DOOD"
+  title: "Well-Founded Semantics for Deductive Object-Oriented Database Languages"
+  author: Bertram Ludascher and Georg Lausen and Wolfgang May
+- year: 1997
+  venue: "PODS"
+  title: "Referential Actions as Logic Rules"
+  author: Bertram Ludascher and Georg Lausen and Wolfgang May
+- year: 1997
+  venue: "ICDT"
+  title: "Total and Partial Well-Founded Datalog Coincide"
+  author: Bertram Ludascher and Jorg Flum and Max Kubierschky
+- year: 1997
+  venue: "DOOD"
+  title: "On a Declarative Semantics for Web Queries"
+  author: Bertram Ludascher and Rainer Himmeroder and Georg Lausen and Christian Schlepphorst
+- year: 1997
+  venue: "ICDT"
+  title: "Expressiveness and Complexity of Active Databases"
+  author: Victor Vianu and Philippe Picouet
+- year: 1997
+  venue: "ICDT"
+  title: "Queries and Computation on the Web"
+  author: Victor Vianu and Serge Abiteboul
+- year: 1997
+  venue: "PODS"
+  title: "Regular Path Queries with Constraints"
+  author: Victor Vianu and Serge Abiteboul
+- year: 1997
+  venue: "VLDB"
+  title: "Describing and Using Query Capabilities of Heterogeneous Sources"
+  author: Yannis Papakonstantinou and Vasilis Vassalos
+  link: paperpdfs/1997_2.pdf
+- year: 1997
+  venue: "Annals of Mathematics and Artificial Intelligence"
+  title: "Rule-Based Languages"
+  author: Victor Vianu
+- year: 1996
+  venue: "DEXA"
+  title: "Design, Implementation and Management of Rules in an Active Database System"
+  author: Alin Deutsch and Jurgen Zimmermann and Holger Brandig and Alejandro Buchmann and Andreas Geppert
+- year: 1996
+  venue: "LID"
+  title: "Nested Transactions in a Logical Language for Active Rules"
+  author: Bertram Ludascher and Georg Lausen and Wolfgang May
+- year: 1996
+  venue: "PODS"
+  title: "Topological Queries in Spatial Databases"
+  author: Dan Suciu and Victor Vianu and Christos Papadimitriou
+- year: 1996
+  venue: "VLDB"
+  title: "Object Fusion in Mediator Systems"
+  author: Serge Abiteboul and Yannis Papakonstantinou and Hector Garcia-Molina
+  link: paperpdfs/1996_1.pdf
+- year: 1996
+  venue: "PDIS"
+  title: "Capabilities-Based Query Rewriting in Mediator Systems"
+  author: Yannis Papakonstantinou and Ashish Gupta and Laura Haas
+  link: paperpdfs/1996_2.pdf
+- year: 1996
+  venue: "ICDE"
+  title: "MedMaker: A Mediation System Based on Declarative Specifications"
+  author: Yannis Papakonstantinou and Hector Garcia-Molina and Jeffrey Ullman
+  link: paperpdfs/1996_3.pdf
+- year: 1996
+  venue: "SIGMOD"
+  title: "Query Caching and Optimization in Distributed Mediator Systems"
+  author: Yannis Papakonstantinou and Sibel Adali and V. Subrahmanian
+  link: paperpdfs/1996_4.pdf
+- year: 1996
+  venue: "FMLDO"
+  title: "Towards a Logical Semantics for Referential Actions in SQL"
+  author: Bertram Ludascher and Wolfgang May and Joachim Reinert
+- year: 1995
+  venue: "JCSS"
+  title: "Computing with First-Order Logic"
+  author: Victor Vianu and Serge Abiteboul
+- year: 1995
+  venue: "TCS"
+  title: "Computing with Infinitary Logic"
+  author: Victor Vianu and Serge Abiteboul and Moshe Vardi
+- year: 1995
+  venue: "JCSS"
+  title: "Tractable Query Languages for Complex Object Databases"
+  author: Victor Vianu and Stephane Grumbach
+- year: 1995
+  venue: "IEEE Data Engineering Bulletin"
+  title: "The ADMS Project: View R Us"
+  author: Yannis Papakonstantinou and Nick Roussopoulos and Chung-Min Chen and Stephen Kelley and Alex Delis
+  link: paperpdfs/1995_1.pdf
+- year: 1995
+  venue: N/A (Manuscript)
+  title: "Foundations of Databases"
+  author: Victor Vianu and Serge Abiteboul and Richard Hull
+- year: 1995
+  venue: "SIGMOD"
+  title: "The REACH Active OODBMS"
+  author: Alin Deutsch and Jurgen Zimmermann and Alejandro Buchmann and M. Higa
+- year: 1995
+  venue: "COMAD"
+  title: "A Logical Framework for Active Rules"
+  author: Bertram Ludascher and Georg Lausen and Ulrich Hamann
+- year: 1995
+  venue: "PODS"
+  title: "Semantics and Expressiveness Issues in Active Databases"
+  author: Victor Vianu and Philippe Picouet
+- year: 1995
+  venue: "ICDT"
+  title: "A Probabilistic View of Datalog Parallelization"
+  author: Victor Vianu and Sergio Lifschitz
+- year: 1995
+  venue: "DOOD"
+  title: "A Query Translation Scheme for Rapid Implementation of Wrappers"
+  author: Yannis Papakonstantinou and Ashish Gupta and Hector Garcia-Molina and Jeffrey Ullman
+  link: paperpdfs/1995_2.pdf
+- year: 1995
+  venue: "NGITS"
+  title: "The TSIMMIS Approach to Mediation: Data Models and Languages"
+  author: Yannis Papakonstantinou and Hector Garcia-Molina and Dallan Quass and Anand Rajaraman and Yehoshua Sagiv and Jeffrey Ullman and Jennifer Widom
+  link: paperpdfs/1995_3.pdf
+- year: 1995
+  venue: "SIGMOD"
+  title: "Information Translation, Mediation, and Mosaic-Based Browsing in the TSIMMIS System"
+  author: Yannis Papakonstantinou and Hector Garcia-Molina and Jeffrey Ullman and Jennifer Widom and Joachim Hammer and Kelly Ireland
+  link: paperpdfs/1995_4.pdf
+- year: 1995
+  venue: "ICDE"
+  title: "Object Exchange Across Heterogeneous Information Sources"
+  author: Yannis Papakonstantinou and Hector Garcia-Molina and Jennifer Widom
+  link: paperpdfs/1995_5.pdf
+- year: 1995
+  venue: "GvD"
+  title: "Zustandsorientierte Beschreibung von Updates in deduktiven Datenbanken"
+  author: Bertram Ludascher and Ulrich Hamann
+- year: 1994
+  venue: "LICS"
+  title: "The Power of Reflective Relational Machines"
+  author: Victor Vianu and Serge Abiteboul and Christos Papadimitriou
+- year: 1994
+  venue: "IPSJ"
+  title: "The TSIMMIS Project: Integration of Heterogeneous Information Sources"
+  author: Yannis Papakonstantinou and Hector Garcia-Molina and Jeffrey Ullman and Jennifer Widom and Sudarshan Chawathe and Joachim Hammer and Kelly Ireland
+  link: paperpdfs/1994_1.pdf
+- year: 1994
+  venue: "East/West Database Workshop"
+  title: "Updates by Reasoning about States"
+  author: Bertram Ludascher and Georg Lausen
+- year: 1993
+  venue: "PODS"
+  title: "Database Method Schemas and Object Creation"
+  author: Victor Vianu and Karl Denninghoff
+- year: 1993
+  venue: "ICALP"
+  title: "Computing on Structures"
+  author: Victor Vianu and Serge Abiteboul
+- year: 1992
+  venue: "TCS"
+  title: "Conceptual Level Concurrency Control of Relational Update Transactions"
+  author: Victor Vianu and Gottfried Vossen
+- year: 1992
+  venue: "GWAI"
+  title: "Towards First-order Deduction Based on Shannon Graphs"
+  author: Bertram Ludascher and Joachim Posegga
+- year: 1992
+  venue: "Theoretical Studies in Computer Science"
+  title: "Expressive Power of Query Languages"
+  author: Victor Vianu and Serge Abiteboul
+- year: 1992
+  venue: "PODS"
+  title: "Queries Are Easier Than You Thought (Probably)"
+  author: Victor Vianu and Serge Abiteboul and Kevin Compton
+- year: 1992
+  venue: "CoCo"
+  title: "Fixpoint Logics, Relational Machines, and Computational Complexity"
+  author: Victor Vianu and Serge Abiteboul and Moshe Vardi
+- year: 1992
+  venue: "ICDT"
+  title: "Computing with Infinitary Logic"
+  author: Victor Vianu and Serge Abiteboul and Moshe Vardi
+- year: 1991
+  venue: "Annals of Mathematics and Artificial Intelligence"
+  title: "Non-Determinism in Logic-Based Languages"
+  author: Victor Vianu and Serge Abiteboul
+- year: 1991
+  venue: "JCSS"
+  title: "Datalog Extensions for Database Queries and Updates"
+  author: Victor Vianu and Serge Abiteboul
+- year: 1991
+  venue: "VLDB"
+  title: "The Power of Methods With Parallel Semantics"
+  author: Victor Vianu and Karl Denninghoff
+- year: 1991
+  venue: "STOC"
+  title: "Generic Computation and Its Complexity"
+  author: Victor Vianu and Serge Abiteboul
+- year: 1991
+  venue: "PODS"
+  title: "Tractable Query Languages for Complex Object Databases"
+  author: Victor Vianu and Stephane Grumbach
+- year: 1991
+  venue: "DBPL"
+  title: "Expressiveness and Complexity of Restricted Languages for Complex Objects"
+  author: Victor Vianu and Stephane Grumbach
+- year: 1991
+  venue: "TODS"
+  title: "Simplification Rules and Complete Axiomatization for Relational Update Transactions"
+  author: Victor Vianu and Dino Karabeg
+- year: 1990
+  venue: "JCSS"
+  title: "Procedural Languages for Database Queries and Updates"
+  author: Victor Vianu and Serge Abiteboul
+- year: 1990
+  venue: "SIGMOD Record"
+  title: "New Hope on Data Models and Types: Report of an NSF-INRIA Workshop"
+  author: Victor Vianu and Serge Abiteboul and Peter Buneman and Claude Delobel and Richard Hull and Paris Kanellakis
+- year: 1990
+  venue: "PODS"
+  title: "Non-Deterministic Languages to Express Deterministic Transformations"
+  author: Victor Vianu and Serge Abiteboul and Eric Simon
+- year: 1990
+  venue: "ICDT"
+  title: "Playing Games with Objects"
+  author: Victor Vianu and Stephane Grumbach
+- year: 1990
+  venue: "TCS"
+  title: "Parallel Update Transactions"
+  author: Victor Vianu and Dino Karabeg
+- year: 1989
+  venue: "JACM"
+  title: "A transaction-based approach to relational database specification"
+  author: Victor Vianu and Serge Abiteboul
+- year: 1989
+  venue: "MFDBS"
+  title: "Goal-Oriented Concurrency Control"
+  author: Victor Vianu and Gottfried Vossen
+- year: 1989
+  venue: "LICS"
+  title: "Fixpoint Extensions of First-Order Logic and Datalog-Like Languages"
+  author: Victor Vianu and Serge Abiteboul
+- year: 1988
+  venue: "IEEE Data Engineering Bulletin"
+  title: "Relational Translations of Semantic Models: A Case Study Based on Iris"
+  author: Victor Vianu and Peter Lyngb?k
+- year: 1988
+  venue: "JACM"
+  title: "Equivalence and optimization of relational transactions"
+  author: Victor Vianu and Serge Abiteboul
+- year: 1988
+  venue: "ICDT"
+  title: "Parallel Update Transactions (Extended Abstract)"
+  author: Victor Vianu and Dino Karabeg
+- year: 1988
+  venue: "ICDT"
+  title: "Conceptual Level Concurrency Control of Relational Update Transactions"
+  author: Victor Vianu and Gottfried Vossen
+- year: 1988
+  venue: "PODS"
+  title: "Procedural and Declarative Database Update Languages"
+  author: Victor Vianu and Serge Abiteboul
+- year: 1988
+  venue: "JCDKB"
+  title: "The Connection of Static Constraints with Determinism and Boundedness of Dynamic Specifications"
+  author: Victor Vianu and Serge Abiteboul
+- year: 1988
+  venue: "TODS"
+  title: "A Dynamic Framework for Object Projection Views"
+  author: Victor Vianu
+- year: 1987
+  venue: "PODS"
+  title: "Axiomatization and Simplification Rules for Relational Transactions"
+  author: Victor Vianu and Dino Karabeg and Almira Karabeg and Kostoula Papakonstantinou
+- year: 1987
+  venue: "SIGMOD"
+  title: "Mapping a Semantic Database Model to the Relational Model"
+  author: Victor Vianu and Peter Lyngb?k
+- year: 1987
+  venue: "PODS"
+  title: "A Transcation Language Complete for Database Update and Specification"
+  author: Victor Vianu and Serge Abiteboul
+- year: 1987
+  venue: "Acta Informatica"
+  title: "Database Survivability Under Dynamic Constraints"
+  author: Victor Vianu
+- year: 1987
+  venue: "JACM"
+  title: "Dynamic functional dependencies and database aging"
+  author: Victor Vianu
+- year: 1986
+  venue: "PODS"
+  title: "Deciding Properties of Transactional Schemas"
+  author: Victor Vianu and Serge Abiteboul
+- year: 1985
+  venue: "PODS"
+  title: "Transactions and Integrity Constraints"
+  author: Victor Vianu and Serge Abiteboul
+- year: 1984
+  venue: "PODS"
+  title: "Object Projection Views in the Dynamic Relational Model"
+  author: Victor Vianu
+- year: 1984
+  venue: "VLDB"
+  title: "Transactions in Relational Databases (Preliminary Report)"
+  author: Victor Vianu and Serge Abiteboul
+- year: 1983
+  venue: "PODS"
+  title: "Dynamic Constraints and Database Evolution"
+  author: Victor Vianu
+- year: 1981
+  venue: "XP1 Workshop on Database Theory"
+  title: "Tableaux which Define Expression Mappings"
+  author: Victor Vianu and Tim Connors
+- year: 1977
+  venue: "MFCS"
+  title: "The Bodnarchuk Metric Space of Languages and the Topology of the Learning Space"
+  author: Victor Vianu
