@@ -1,0 +1,11 @@
+<div class="col-sm-12">
+  <div markdown="1">
+
+   <h2>Featured Resources</h2>
+   
+    {% for article in site.data.featured_resources%}
+    <p>{{ article.headline }}</p>
+    {% endfor %}
+
+  </div>
+</div>

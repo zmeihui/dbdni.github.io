@@ -1,0 +1,8 @@
+- name: Arun Kumar
+  photo: arun.jpg
+  web: http://cseweb.ucsd.edu/~arunkk/
+  info: "... <b>SIGMOD 2021</b>"
+- name: Avrilia Floratou
+  photo: avrilia.jpg
+  web: https://www.microsoft.com/en-us/research/people/avflor/
+  info: "... <b>SIGMOD 2021</b>"

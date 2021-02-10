@@ -1,8 +1,0 @@
----
-layout: post
-title:  "From Data to Models and Back: Experiences from Google's Production ML Pipelines"
-date:   2020-05-13
-author: Alkis Polyzotis (Google Research)
----
-
-Building a good ML model requires good input data. Conversely, debugging a model inevitably involves data debugging and understanding. In this talk, I will present our work in supporting key steps in this bidirectional journey, motivated by the needs of large production ML pipelines at Google: connecting structured data to ML, validating the data fed to training and inference, analyzing model performance through the lens of input data, and linking everything together through lineage. Our tools are deployed in ML pipelines at Google and other large organizations (through open-source software), processing several petabytes of data per day and powering models with millions of QPS.
