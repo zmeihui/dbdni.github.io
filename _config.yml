@@ -16,9 +16,11 @@
 title: Diversity and Inclusion Efforts at Data Management Conference Venues
 email: arunkk@eng.ucsd.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The Data Management community is committed to the promotion of diversity and inclusion in all aspects of our professional activities.
+  We celebrate the diversity in our community and welcome everyone regardless of age, gender identity, race, ethnicity, socioeconomic background,
+  country of origin, religion, sexual orientation, physical ability, education, and work experience. We also welcome people and opinions of all political persuasions,
+  as long as they abide by the ACM policy against harassment. Our initiative coordinates D&I efforts across the data management community and includes this year’s D&I 
+  hairs of SIGMOD, VLDB, SoCC, and ICDE.
 
 baseurl:
 url: https://dbdni.github.io
