@@ -6,10 +6,6 @@
   photo: arun.jpg
   web: http://cseweb.ucsd.edu/~arunkk/
   info: "D&I Co-Chair for <b>SIGMOD 2021</b>"
-- name: Sihem Amer-Yahia
-  photo: sihem.jpg
-  web: http://lig-membres.imag.fr/amery/
-  info: "D&I chair for <b>VLDB 2021</b>"
 - name: Georgia Koutrika
   photo: georgia.jpg
   web: http://cgi.di.uoa.gr/~koutrika/
@@ -18,3 +14,7 @@
   photo: victor.jpg
   web: https://sites.cs.ucsb.edu/~victorzakhary/
   info: "D&I chair for <b>ICDE 2021</b>"
+- name: Sihem Amer-Yahia
+  photo: sihem.jpg
+  web: http://lig-membres.imag.fr/amery/
+  info: "D&I chair for <b>VLDB 2021</b>"
