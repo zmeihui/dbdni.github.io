@@ -3,7 +3,7 @@
 
 <h2>People</h2>
 
-Jump to <a href="/#core_members">Core Members</a>, <a href="#executive_committee">Executive Committee</a>, <a href="#conf_organizers">Members Chairing this Year’s D&I in DM Conferences</a>.
+Jump to <a href="/#core_members">Core Members</a>, <a href="#liaisons">Liaisons</a>, <a href="#conf_organizers">Members Chairing this Year’s D&I in DM Conferences</a>.
 
 <h4 id="core_members">Core Members</h4>
 {% assign number_printed = 0 %}
@@ -36,9 +36,9 @@ Jump to <a href="/#core_members">Core Members</a>, <a href="#executive_committee
 {% endif %}
 
 
-<h4 id="executive_committee">Executive Committee</h4>
+<h4 id="liaisons">Liaisons</h4>
 {% assign number_printed = 0 %}
-{% for member in site.data.executive_committee %}
+{% for member in site.data.liaisons %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
